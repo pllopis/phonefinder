@@ -1,0 +1,4082 @@
+[
+    {
+        "name": "Doogee S88 Pro",
+        "score": 202,
+        "name_bare": "Doogee S88 Pro"
+    },
+    {
+        "name": "Realme 6i",
+        "score": 186,
+        "name_bare": "Realme 6i"
+    },
+    {
+        "name": "Samsung Galaxy M51",
+        "score": 156,
+        "name_bare": "Samsung Galaxy M51"
+    },
+    {
+        "name": "Motorola Moto G9 Power",
+        "score": 155,
+        "name_bare": "Motorola Moto G9 Power"
+    },
+    {
+        "name": "Xiaomi Poco M3",
+        "score": 154,
+        "name_bare": "Xiaomi Poco M3"
+    },
+    {
+        "name": "Motorola Moto G10",
+        "score": 152,
+        "name_bare": "Motorola Moto G10"
+    },
+    {
+        "name": "Xiaomi Redmi 9T",
+        "score": 150,
+        "name_bare": "Xiaomi Redmi 9T"
+    },
+    {
+        "name": "Lenovo P2",
+        "score": 149,
+        "name_bare": "Lenovo P2"
+    },
+    {
+        "name": "Gionee Marathon M5",
+        "score": 148,
+        "name_bare": "Gionee Marathon M5"
+    },
+    {
+        "name": "Motorola Moto G7 Power",
+        "score": 147,
+        "name_bare": "Motorola Moto G7 Power"
+    },
+    {
+        "name": "Samsung Galaxy A42 5G",
+        "score": 144,
+        "name_bare": "Samsung Galaxy A42"
+    },
+    {
+        "name": "Realme 5",
+        "score": 144,
+        "name_bare": "Realme 5"
+    },
+    {
+        "name": "Realme 5s",
+        "score": 143,
+        "name_bare": "Realme 5s"
+    },
+    {
+        "name": "Tecno Camon 17 Pro",
+        "score": 140,
+        "name_bare": "Tecno Camon 17 Pro"
+    },
+    {
+        "name": "Ulefone Armor 7",
+        "score": 140,
+        "name_bare": "Ulefone Armor 7"
+    },
+    {
+        "name": "Sony Xperia 10 III",
+        "score": 137,
+        "name_bare": "Sony Xperia 10 III"
+    },
+    {
+        "name": "Motorola One Fusion+",
+        "score": 136,
+        "name_bare": "Motorola One Fusion+"
+    },
+    {
+        "name": "Motorola Moto G9 Plus",
+        "score": 136,
+        "name_bare": "Motorola Moto G9 Plus"
+    },
+    {
+        "name": "Motorola Moto G8 Power",
+        "score": 136,
+        "name_bare": "Motorola Moto G8 Power"
+    },
+    {
+        "name": "Motorola Moto G50",
+        "score": 133,
+        "name_bare": "Motorola Moto G50"
+    },
+    {
+        "name": "Xiaomi Redmi 9",
+        "score": 131,
+        "name_bare": "Xiaomi Redmi 9"
+    },
+    {
+        "name": "Motorola Moto G 5G",
+        "score": 131,
+        "name_bare": "Motorola Moto G"
+    },
+    {
+        "name": "Motorola Moto G30",
+        "score": 131,
+        "name_bare": "Motorola Moto G30"
+    },
+    {
+        "name": "Samsung Galaxy M30s",
+        "score": 130,
+        "name_bare": "Samsung Galaxy M30s"
+    },
+    {
+        "name": "Motorola Defy (2021)",
+        "score": 129,
+        "name_bare": "Motorola Defy (2021)"
+    },
+    {
+        "name": "Realme 7 5G",
+        "score": 129,
+        "name_bare": "Realme 7"
+    },
+    {
+        "name": "Realme 8",
+        "score": 127,
+        "name_bare": "Realme 8"
+    },
+    {
+        "name": "Xiaomi Redmi Note 9S",
+        "score": 127,
+        "name_bare": "Xiaomi Redmi Note 9S"
+    },
+    {
+        "name": "Xiaomi Redmi 10",
+        "score": 127,
+        "name_bare": "Xiaomi Redmi 10"
+    },
+    {
+        "name": "Xiaomi Redmi Note 9 Pro (India)",
+        "score": 127,
+        "name_bare": "Xiaomi Redmi Note 9 Pro (India)"
+    },
+    {
+        "name": "Realme 7 (Global)",
+        "score": 126,
+        "name_bare": "Realme 7 (Global)"
+    },
+    {
+        "name": "Xiaomi Mi Max 2",
+        "score": 126,
+        "name_bare": "Xiaomi Mi Max 2"
+    },
+    {
+        "name": "Xiaomi Redmi Note 9",
+        "score": 125,
+        "name_bare": "Xiaomi Redmi Note 9"
+    },
+    {
+        "name": "Xiaomi Poco X3 NFC",
+        "score": 125,
+        "name_bare": "Xiaomi Poco X3 NFC"
+    },
+    {
+        "name": "Samsung Galaxy A31",
+        "score": 124,
+        "name_bare": "Samsung Galaxy A31"
+    },
+    {
+        "name": "vivo V21",
+        "score": 123,
+        "name_bare": "vivo V21"
+    },
+    {
+        "name": "Samsung Galaxy A12",
+        "score": 123,
+        "name_bare": "Samsung Galaxy A12"
+    },
+    {
+        "name": "vivo V21 5G",
+        "score": 123,
+        "name_bare": "vivo V21"
+    },
+    {
+        "name": "Samsung Galaxy A32 5G",
+        "score": 123,
+        "name_bare": "Samsung Galaxy A32"
+    },
+    {
+        "name": "Xiaomi Redmi Note 9 Pro",
+        "score": 123,
+        "name_bare": "Xiaomi Redmi Note 9 Pro"
+    },
+    {
+        "name": "Google Pixel 5a 5G",
+        "score": 122,
+        "name_bare": "Google Pixel 5a"
+    },
+    {
+        "name": "Tecno Phantom X",
+        "score": 122,
+        "name_bare": "Tecno Phantom X"
+    },
+    {
+        "name": "Huawei P40 lite",
+        "score": 121,
+        "name_bare": "Huawei P40 lite"
+    },
+    {
+        "name": "Xiaomi Poco M3 Pro 5G",
+        "score": 121,
+        "name_bare": "Xiaomi Poco M3 Pro"
+    },
+    {
+        "name": "Asus Zenfone Max ZC550KL",
+        "score": 121,
+        "name_bare": "Asus Zenfone Max ZC550KL"
+    },
+    {
+        "name": "Xiaomi Redmi Note 10 5G",
+        "score": 121,
+        "name_bare": "Xiaomi Redmi Note 10"
+    },
+    {
+        "name": "Realme 2",
+        "score": 121,
+        "name_bare": "Realme 2"
+    },
+    {
+        "name": "Xiaomi Poco F2 Pro",
+        "score": 120,
+        "name_bare": "Xiaomi Poco F2 Pro"
+    },
+    {
+        "name": "Asus ROG Phone 3",
+        "score": 120,
+        "name_bare": "Asus ROG Phone 3"
+    },
+    {
+        "name": "Samsung Galaxy A32",
+        "score": 119,
+        "name_bare": "Samsung Galaxy A32"
+    },
+    {
+        "name": "Xiaomi Redmi Note 4",
+        "score": 119,
+        "name_bare": "Xiaomi Redmi Note 4"
+    },
+    {
+        "name": "Samsung Galaxy A21s",
+        "score": 119,
+        "name_bare": "Samsung Galaxy A21s"
+    },
+    {
+        "name": "Huawei P smart 2021",
+        "score": 119,
+        "name_bare": "Huawei P smart 2021"
+    },
+    {
+        "name": "Samsung Galaxy M30",
+        "score": 119,
+        "name_bare": "Samsung Galaxy M30"
+    },
+    {
+        "name": "Realme 8 5G",
+        "score": 118,
+        "name_bare": "Realme 8"
+    },
+    {
+        "name": "Xiaomi Redmi Note 10 Pro",
+        "score": 118,
+        "name_bare": "Xiaomi Redmi Note 10 Pro"
+    },
+    {
+        "name": "Tecno Camon 16 Premier",
+        "score": 118,
+        "name_bare": "Tecno Camon 16 Premier"
+    },
+    {
+        "name": "Xiaomi Redmi Note 9T",
+        "score": 118,
+        "name_bare": "Xiaomi Redmi Note 9T"
+    },
+    {
+        "name": "Samsung Galaxy A22 5G",
+        "score": 118,
+        "name_bare": "Samsung Galaxy A22"
+    },
+    {
+        "name": "vivo iQOO 3 5G",
+        "score": 118,
+        "name_bare": "vivo iQOO 3"
+    },
+    {
+        "name": "Xiaomi Mi 10T Pro 5G",
+        "score": 118,
+        "name_bare": "Xiaomi Mi 10T Pro"
+    },
+    {
+        "name": "Samsung Galaxy A72",
+        "score": 117,
+        "name_bare": "Samsung Galaxy A72"
+    },
+    {
+        "name": "OnePlus Nord CE 5G",
+        "score": 117,
+        "name_bare": "OnePlus Nord CE"
+    },
+    {
+        "name": "Xiaomi Mi Note 10 Lite",
+        "score": 117,
+        "name_bare": "Xiaomi Mi Note 10 Lite"
+    },
+    {
+        "name": "Xiaomi Mi 10T Lite 5G",
+        "score": 116,
+        "name_bare": "Xiaomi Mi 10T Lite"
+    },
+    {
+        "name": "Realme 8 Pro",
+        "score": 116,
+        "name_bare": "Realme 8 Pro"
+    },
+    {
+        "name": "Infinix Zero 8",
+        "score": 116,
+        "name_bare": "Infinix Zero 8"
+    },
+    {
+        "name": "ZTE nubia Red Magic 3s",
+        "score": 115,
+        "name_bare": "ZTE nubia Red Magic 3s"
+    },
+    {
+        "name": "Xiaomi Mi Max 3",
+        "score": 115,
+        "name_bare": "Xiaomi Mi Max 3"
+    },
+    {
+        "name": "Samsung Galaxy A7 (2017)",
+        "score": 115,
+        "name_bare": "Samsung Galaxy A7 (2017)"
+    },
+    {
+        "name": "Xiaomi Redmi Note 8 Pro",
+        "score": 114,
+        "name_bare": "Xiaomi Redmi Note 8 Pro"
+    },
+    {
+        "name": "Samsung Galaxy A02s",
+        "score": 114,
+        "name_bare": "Samsung Galaxy A02s"
+    },
+    {
+        "name": "Honor 10X Lite",
+        "score": 114,
+        "name_bare": "Honor 10X Lite"
+    },
+    {
+        "name": "Realme GT Master",
+        "score": 114,
+        "name_bare": "Realme GT Master"
+    },
+    {
+        "name": "Samsung Galaxy S21 Ultra 5G",
+        "score": 114,
+        "name_bare": "Samsung Galaxy S21 Ultra"
+    },
+    {
+        "name": "Motorola Moto G 5G Plus",
+        "score": 114,
+        "name_bare": "Motorola Moto G  Plus"
+    },
+    {
+        "name": "Samsung Galaxy S21+ 5G",
+        "score": 114,
+        "name_bare": "Samsung Galaxy S21+"
+    },
+    {
+        "name": "Asus ROG Phone II ZS660KL",
+        "score": 114,
+        "name_bare": "Asus ROG Phone II ZS660KL"
+    },
+    {
+        "name": "Xiaomi Poco F3",
+        "score": 114,
+        "name_bare": "Xiaomi Poco F3"
+    },
+    {
+        "name": "Realme 7 Pro",
+        "score": 113,
+        "name_bare": "Realme 7 Pro"
+    },
+    {
+        "name": "Asus Zenfone 6 ZS630KL",
+        "score": 112,
+        "name_bare": "Asus Zenfone 6 ZS630KL"
+    },
+    {
+        "name": "Xiaomi Poco X3 Pro",
+        "score": 112,
+        "name_bare": "Xiaomi Poco X3 Pro"
+    },
+    {
+        "name": "ZTE nubia Red Magic 3",
+        "score": 112,
+        "name_bare": "ZTE nubia Red Magic 3"
+    },
+    {
+        "name": "vivo V20",
+        "score": 111,
+        "name_bare": "vivo V20"
+    },
+    {
+        "name": "Samsung Galaxy A52 5G",
+        "score": 111,
+        "name_bare": "Samsung Galaxy A52"
+    },
+    {
+        "name": "Samsung Galaxy S8 Active",
+        "score": 111,
+        "name_bare": "Samsung Galaxy S8 Active"
+    },
+    {
+        "name": "LG G8X ThinQ",
+        "score": 111,
+        "name_bare": "LG G8X ThinQ"
+    },
+    {
+        "name": "Xiaomi Redmi Note 10",
+        "score": 110,
+        "name_bare": "Xiaomi Redmi Note 10"
+    },
+    {
+        "name": "Motorola One Macro",
+        "score": 110,
+        "name_bare": "Motorola One Macro"
+    },
+    {
+        "name": "Samsung Galaxy S10 Lite",
+        "score": 110,
+        "name_bare": "Samsung Galaxy S10 Lite"
+    },
+    {
+        "name": "vivo NEX 3 5G",
+        "score": 110,
+        "name_bare": "vivo NEX 3"
+    },
+    {
+        "name": "Asus ROG Phone 5s Pro",
+        "score": 110,
+        "name_bare": "Asus ROG Phone 5s Pro"
+    },
+    {
+        "name": "Samsung Galaxy S20 FE 5G",
+        "score": 110,
+        "name_bare": "Samsung Galaxy S20 FE"
+    },
+    {
+        "name": "Asus ROG Phone 5",
+        "score": 110,
+        "name_bare": "Asus ROG Phone 5"
+    },
+    {
+        "name": "Realme X7 Max 5G",
+        "score": 110,
+        "name_bare": "Realme X7 Max"
+    },
+    {
+        "name": "Xiaomi Poco X3 GT",
+        "score": 110,
+        "name_bare": "Xiaomi Poco X3 GT"
+    },
+    {
+        "name": "Samsung Galaxy S6 active",
+        "score": 109,
+        "name_bare": "Samsung Galaxy S6 active"
+    },
+    {
+        "name": "Xiaomi Mi 10 5G",
+        "score": 109,
+        "name_bare": "Xiaomi Mi 10"
+    },
+    {
+        "name": "Nokia 2",
+        "score": 109,
+        "name_bare": "Nokia 2"
+    },
+    {
+        "name": "Oppo Reno5 5G",
+        "score": 109,
+        "name_bare": "Oppo Reno5"
+    },
+    {
+        "name": "Oppo F11 Pro",
+        "score": 109,
+        "name_bare": "Oppo F11 Pro"
+    },
+    {
+        "name": "Xiaomi Redmi Note 8",
+        "score": 108,
+        "name_bare": "Xiaomi Redmi Note 8"
+    },
+    {
+        "name": "Xiaomi Redmi Note 8T",
+        "score": 108,
+        "name_bare": "Xiaomi Redmi Note 8T"
+    },
+    {
+        "name": "OnePlus 8",
+        "score": 108,
+        "name_bare": "OnePlus 8"
+    },
+    {
+        "name": "Xiaomi Redmi Note 7",
+        "score": 108,
+        "name_bare": "Xiaomi Redmi Note 7"
+    },
+    {
+        "name": "Xiaomi Mi Max",
+        "score": 108,
+        "name_bare": "Xiaomi Mi Max"
+    },
+    {
+        "name": "Sony Xperia XZ1 Compact",
+        "score": 108,
+        "name_bare": "Sony Xperia XZ1 Compact"
+    },
+    {
+        "name": "Huawei Mate 20 X",
+        "score": 108,
+        "name_bare": "Huawei Mate 20 X"
+    },
+    {
+        "name": "Realme 3",
+        "score": 108,
+        "name_bare": "Realme 3"
+    },
+    {
+        "name": "Samsung Galaxy J7 (2017)",
+        "score": 108,
+        "name_bare": "Samsung Galaxy J7 (2017)"
+    },
+    {
+        "name": "Xiaomi Redmi 3",
+        "score": 107,
+        "name_bare": "Xiaomi Redmi 3"
+    },
+    {
+        "name": "Nokia Lumia 1520",
+        "score": 107,
+        "name_bare": "Nokia Lumia 1520"
+    },
+    {
+        "name": "vivo V17 Pro",
+        "score": 107,
+        "name_bare": "vivo V17 Pro"
+    },
+    {
+        "name": "Samsung Galaxy J7 Pro",
+        "score": 107,
+        "name_bare": "Samsung Galaxy J7 Pro"
+    },
+    {
+        "name": "Oppo Reno 10x zoom",
+        "score": 107,
+        "name_bare": "Oppo Reno 10x zoom"
+    },
+    {
+        "name": "Realme 6 Pro",
+        "score": 107,
+        "name_bare": "Realme 6 Pro"
+    },
+    {
+        "name": "Samsung Galaxy Note10+",
+        "score": 107,
+        "name_bare": "Samsung Galaxy Note10+"
+    },
+    {
+        "name": "Realme 6",
+        "score": 106,
+        "name_bare": "Realme 6"
+    },
+    {
+        "name": "Infinix S5 Pro",
+        "score": 106,
+        "name_bare": "Infinix S5 Pro"
+    },
+    {
+        "name": "Samsung Galaxy A6+ (2018)",
+        "score": 106,
+        "name_bare": "Samsung Galaxy A6+ (2018)"
+    },
+    {
+        "name": "Huawei Ascend Mate2 4G",
+        "score": 106,
+        "name_bare": "Huawei Ascend Mate2 4G"
+    },
+    {
+        "name": "Xiaomi Mi 11 Lite 5G",
+        "score": 106,
+        "name_bare": "Xiaomi Mi 11 Lite"
+    },
+    {
+        "name": "Xiaomi Mi 9 Lite",
+        "score": 106,
+        "name_bare": "Xiaomi Mi 9 Lite"
+    },
+    {
+        "name": "Xiaomi Mi A2 Lite (Redmi 6 Pro)",
+        "score": 106,
+        "name_bare": "Xiaomi Mi A2 Lite (Redmi 6 Pro)"
+    },
+    {
+        "name": "Sony Xperia Z4 Tablet LTE",
+        "score": 105,
+        "name_bare": "Sony Xperia Z4 Tablet LTE"
+    },
+    {
+        "name": "Realme X2",
+        "score": 105,
+        "name_bare": "Realme X2"
+    },
+    {
+        "name": "Samsung Galaxy A52",
+        "score": 105,
+        "name_bare": "Samsung Galaxy A52"
+    },
+    {
+        "name": "Xiaomi Mi 5s Plus",
+        "score": 104,
+        "name_bare": "Xiaomi Mi 5s Plus"
+    },
+    {
+        "name": "Sony Xperia XA2 Plus",
+        "score": 104,
+        "name_bare": "Sony Xperia XA2 Plus"
+    },
+    {
+        "name": "OnePlus 8T",
+        "score": 104,
+        "name_bare": "OnePlus 8T"
+    },
+    {
+        "name": "Xiaomi Redmi 3 Pro",
+        "score": 104,
+        "name_bare": "Xiaomi Redmi 3 Pro"
+    },
+    {
+        "name": "Honor 9X Pro",
+        "score": 104,
+        "name_bare": "Honor 9X Pro"
+    },
+    {
+        "name": "Xiaomi Redmi 5 Plus (Redmi Note 5)",
+        "score": 104,
+        "name_bare": "Xiaomi Redmi 5 Plus (Redmi Note 5)"
+    },
+    {
+        "name": "Oppo Reno3 Pro",
+        "score": 104,
+        "name_bare": "Oppo Reno3 Pro"
+    },
+    {
+        "name": "Xiaomi Redmi 3s",
+        "score": 104,
+        "name_bare": "Xiaomi Redmi 3s"
+    },
+    {
+        "name": "Honor 20 Pro",
+        "score": 104,
+        "name_bare": "Honor 20 Pro"
+    },
+    {
+        "name": "Huawei Mate 8",
+        "score": 103,
+        "name_bare": "Huawei Mate 8"
+    },
+    {
+        "name": "Xiaomi Redmi K20 Pro",
+        "score": 103,
+        "name_bare": "Xiaomi Redmi K20 Pro"
+    },
+    {
+        "name": "Samsung Galaxy M20",
+        "score": 103,
+        "name_bare": "Samsung Galaxy M20"
+    },
+    {
+        "name": "Motorola Moto G7 Play",
+        "score": 103,
+        "name_bare": "Motorola Moto G7 Play"
+    },
+    {
+        "name": "Samsung Galaxy A70",
+        "score": 103,
+        "name_bare": "Samsung Galaxy A70"
+    },
+    {
+        "name": "Xiaomi Mi 9T Pro",
+        "score": 103,
+        "name_bare": "Xiaomi Mi 9T Pro"
+    },
+    {
+        "name": "LG V60 ThinQ 5G",
+        "score": 103,
+        "name_bare": "LG V60 ThinQ"
+    },
+    {
+        "name": "Samsung Galaxy A9 (2016)",
+        "score": 103,
+        "name_bare": "Samsung Galaxy A9 (2016)"
+    },
+    {
+        "name": "OnePlus 8 Pro",
+        "score": 103,
+        "name_bare": "OnePlus 8 Pro"
+    },
+    {
+        "name": "Realme X3 SuperZoom",
+        "score": 103,
+        "name_bare": "Realme X3 SuperZoom"
+    },
+    {
+        "name": "Xiaomi Mi 10 Lite 5G",
+        "score": 103,
+        "name_bare": "Xiaomi Mi 10 Lite"
+    },
+    {
+        "name": "Huawei Mate 30 Pro",
+        "score": 103,
+        "name_bare": "Huawei Mate 30 Pro"
+    },
+    {
+        "name": "Samsung Galaxy A71",
+        "score": 102,
+        "name_bare": "Samsung Galaxy A71"
+    },
+    {
+        "name": "Oppo Reno2",
+        "score": 102,
+        "name_bare": "Oppo Reno2"
+    },
+    {
+        "name": "Sony Xperia 5 II",
+        "score": 102,
+        "name_bare": "Sony Xperia 5 II"
+    },
+    {
+        "name": "OnePlus Nord 2 5G",
+        "score": 102,
+        "name_bare": "OnePlus Nord 2"
+    },
+    {
+        "name": "Motorola Edge",
+        "score": 102,
+        "name_bare": "Motorola Edge"
+    },
+    {
+        "name": "Apple iPhone 11 Pro Max",
+        "score": 102,
+        "name_bare": "Apple iPhone 11 Pro Max"
+    },
+    {
+        "name": "Sony Xperia XA1 Plus",
+        "score": 102,
+        "name_bare": "Sony Xperia XA1 Plus"
+    },
+    {
+        "name": "Motorola One (P30 Play)",
+        "score": 102,
+        "name_bare": "Motorola One (P30 Play)"
+    },
+    {
+        "name": "OnePlus 7",
+        "score": 102,
+        "name_bare": "OnePlus 7"
+    },
+    {
+        "name": "Samsung Galaxy A41",
+        "score": 102,
+        "name_bare": "Samsung Galaxy A41"
+    },
+    {
+        "name": "Xiaomi Mi 10 Pro 5G",
+        "score": 101,
+        "name_bare": "Xiaomi Mi 10 Pro"
+    },
+    {
+        "name": "vivo NEX S",
+        "score": 101,
+        "name_bare": "vivo NEX S"
+    },
+    {
+        "name": "Samsung Galaxy Tab Pro 10.1 LTE",
+        "score": 101,
+        "name_bare": "Samsung Galaxy Tab Pro 10.1 LTE"
+    },
+    {
+        "name": "Sony Xperia Z3 Compact",
+        "score": 101,
+        "name_bare": "Sony Xperia Z3 Compact"
+    },
+    {
+        "name": "Xiaomi Mi A3",
+        "score": 101,
+        "name_bare": "Xiaomi Mi A3"
+    },
+    {
+        "name": "Xiaomi Redmi K30",
+        "score": 101,
+        "name_bare": "Xiaomi Redmi K30"
+    },
+    {
+        "name": "Samsung Galaxy J7 (2016)",
+        "score": 101,
+        "name_bare": "Samsung Galaxy J7 (2016)"
+    },
+    {
+        "name": "Samsung Galaxy C7",
+        "score": 100,
+        "name_bare": "Samsung Galaxy C7"
+    },
+    {
+        "name": "Motorola Moto G100",
+        "score": 100,
+        "name_bare": "Motorola Moto G100"
+    },
+    {
+        "name": "Oppo Find X2 Neo",
+        "score": 100,
+        "name_bare": "Oppo Find X2 Neo"
+    },
+    {
+        "name": "Sony Xperia 5 III",
+        "score": 100,
+        "name_bare": "Sony Xperia 5 III"
+    },
+    {
+        "name": "Oppo Reno3 Pro 5G",
+        "score": 100,
+        "name_bare": "Oppo Reno3 Pro"
+    },
+    {
+        "name": "Huawei P30 Pro",
+        "score": 100,
+        "name_bare": "Huawei P30 Pro"
+    },
+    {
+        "name": "Realme 5 Pro",
+        "score": 100,
+        "name_bare": "Realme 5 Pro"
+    },
+    {
+        "name": "Motorola Moto Z Play",
+        "score": 100,
+        "name_bare": "Motorola Moto Z Play"
+    },
+    {
+        "name": "ZTE nubia Z20",
+        "score": 100,
+        "name_bare": "ZTE nubia Z20"
+    },
+    {
+        "name": "OnePlus Nord",
+        "score": 100,
+        "name_bare": "OnePlus Nord"
+    },
+    {
+        "name": "Meizu M3 Max",
+        "score": 100,
+        "name_bare": "Meizu M3 Max"
+    },
+    {
+        "name": "OnePlus 7T Pro",
+        "score": 100,
+        "name_bare": "OnePlus 7T Pro"
+    },
+    {
+        "name": "Xiaomi Mi 9T",
+        "score": 100,
+        "name_bare": "Xiaomi Mi 9T"
+    },
+    {
+        "name": "Motorola Edge+",
+        "score": 100,
+        "name_bare": "Motorola Edge+"
+    },
+    {
+        "name": "Xiaomi Mi 11 Lite",
+        "score": 100,
+        "name_bare": "Xiaomi Mi 11 Lite"
+    },
+    {
+        "name": "Lenovo Z6 Pro",
+        "score": 100,
+        "name_bare": "Lenovo Z6 Pro"
+    },
+    {
+        "name": "Sony Xperia XA2 Ultra",
+        "score": 100,
+        "name_bare": "Sony Xperia XA2 Ultra"
+    },
+    {
+        "name": "Realme XT",
+        "score": 100,
+        "name_bare": "Realme XT"
+    },
+    {
+        "name": "Asus Zenfone 7 Pro",
+        "score": 99,
+        "name_bare": "Asus Zenfone 7 Pro"
+    },
+    {
+        "name": "Honor 9X",
+        "score": 99,
+        "name_bare": "Honor 9X"
+    },
+    {
+        "name": "Oppo Reno Ace",
+        "score": 99,
+        "name_bare": "Oppo Reno Ace"
+    },
+    {
+        "name": "OnePlus Nord N10 5G",
+        "score": 99,
+        "name_bare": "OnePlus Nord N10"
+    },
+    {
+        "name": "Honor 30 Pro+",
+        "score": 99,
+        "name_bare": "Honor 30 Pro+"
+    },
+    {
+        "name": "Google Pixel 3a XL",
+        "score": 98,
+        "name_bare": "Google Pixel 3a XL"
+    },
+    {
+        "name": "Asus Zenfone 8 Flip",
+        "score": 98,
+        "name_bare": "Asus Zenfone 8 Flip"
+    },
+    {
+        "name": "Samsung Galaxy A50",
+        "score": 98,
+        "name_bare": "Samsung Galaxy A50"
+    },
+    {
+        "name": "Samsung Galaxy A8",
+        "score": 98,
+        "name_bare": "Samsung Galaxy A8"
+    },
+    {
+        "name": "Realme GT 5G",
+        "score": 98,
+        "name_bare": "Realme GT"
+    },
+    {
+        "name": "Meizu M5 Note",
+        "score": 98,
+        "name_bare": "Meizu M5 Note"
+    },
+    {
+        "name": "vivo V11 (V11 Pro)",
+        "score": 98,
+        "name_bare": "vivo V11 (V11 Pro)"
+    },
+    {
+        "name": "Samsung Galaxy A8 Duos",
+        "score": 98,
+        "name_bare": "Samsung Galaxy A8 Duos"
+    },
+    {
+        "name": "ZTE nubia Red Magic 6s Pro",
+        "score": 97,
+        "name_bare": "ZTE nubia Red Magic 6s Pro"
+    },
+    {
+        "name": "LG G Flex",
+        "score": 97,
+        "name_bare": "LG G Flex"
+    },
+    {
+        "name": "Xiaomi Mi Mix",
+        "score": 97,
+        "name_bare": "Xiaomi Mi Mix"
+    },
+    {
+        "name": "Huawei Mate 40 Pro",
+        "score": 97,
+        "name_bare": "Huawei Mate 40 Pro"
+    },
+    {
+        "name": "Lenovo ZUK Z1",
+        "score": 97,
+        "name_bare": "Lenovo ZUK Z1"
+    },
+    {
+        "name": "Realme 2 Pro",
+        "score": 97,
+        "name_bare": "Realme 2 Pro"
+    },
+    {
+        "name": "Samsung Galaxy J5 (2017)",
+        "score": 97,
+        "name_bare": "Samsung Galaxy J5 (2017)"
+    },
+    {
+        "name": "Huawei Mate 20 lite",
+        "score": 97,
+        "name_bare": "Huawei Mate 20 lite"
+    },
+    {
+        "name": "Samsung Galaxy Note9",
+        "score": 97,
+        "name_bare": "Samsung Galaxy Note9"
+    },
+    {
+        "name": "Samsung Galaxy A7 (2016)",
+        "score": 96,
+        "name_bare": "Samsung Galaxy A7 (2016)"
+    },
+    {
+        "name": "Xiaomi Mi 11i",
+        "score": 96,
+        "name_bare": "Xiaomi Mi 11i"
+    },
+    {
+        "name": "Huawei Mate 10 Pro",
+        "score": 96,
+        "name_bare": "Huawei Mate 10 Pro"
+    },
+    {
+        "name": "Xiaomi Black Shark 4",
+        "score": 96,
+        "name_bare": "Xiaomi Black Shark 4"
+    },
+    {
+        "name": "Sony Xperia 5",
+        "score": 96,
+        "name_bare": "Sony Xperia 5"
+    },
+    {
+        "name": "LG V50 ThinQ 5G",
+        "score": 96,
+        "name_bare": "LG V50 ThinQ"
+    },
+    {
+        "name": "Oppo Reno4 Pro",
+        "score": 96,
+        "name_bare": "Oppo Reno4 Pro"
+    },
+    {
+        "name": "Samsung Galaxy S7 active",
+        "score": 96,
+        "name_bare": "Samsung Galaxy S7 active"
+    },
+    {
+        "name": "Honor View 20",
+        "score": 96,
+        "name_bare": "Honor View 20"
+    },
+    {
+        "name": "Sony Xperia T2 Ultra",
+        "score": 96,
+        "name_bare": "Sony Xperia T2 Ultra"
+    },
+    {
+        "name": "Meizu Pro 6 Plus",
+        "score": 96,
+        "name_bare": "Meizu Pro 6 Plus"
+    },
+    {
+        "name": "Honor 8X",
+        "score": 96,
+        "name_bare": "Honor 8X"
+    },
+    {
+        "name": "Lenovo Phab2 Pro",
+        "score": 96,
+        "name_bare": "Lenovo Phab2 Pro"
+    },
+    {
+        "name": "Huawei P40 Pro+",
+        "score": 95,
+        "name_bare": "Huawei P40 Pro+"
+    },
+    {
+        "name": "Samsung Galaxy A5 (2017)",
+        "score": 95,
+        "name_bare": "Samsung Galaxy A5 (2017)"
+    },
+    {
+        "name": "Apple iPhone 12 Pro Max",
+        "score": 95,
+        "name_bare": "Apple iPhone 12 Pro Max"
+    },
+    {
+        "name": "Xiaomi Mi 9",
+        "score": 95,
+        "name_bare": "Xiaomi Mi 9"
+    },
+    {
+        "name": "Meizu PRO 5",
+        "score": 95,
+        "name_bare": "Meizu PRO 5"
+    },
+    {
+        "name": "Xiaomi Mi Note 10",
+        "score": 95,
+        "name_bare": "Xiaomi Mi Note 10"
+    },
+    {
+        "name": "Google Pixel 5",
+        "score": 95,
+        "name_bare": "Google Pixel 5"
+    },
+    {
+        "name": "Xiaomi Mi 11 Ultra",
+        "score": 95,
+        "name_bare": "Xiaomi Mi 11 Ultra"
+    },
+    {
+        "name": "Huawei P30 lite",
+        "score": 94,
+        "name_bare": "Huawei P30 lite"
+    },
+    {
+        "name": "Xiaomi Pocophone F1",
+        "score": 94,
+        "name_bare": "Xiaomi Pocophone F1"
+    },
+    {
+        "name": "Honor Play",
+        "score": 94,
+        "name_bare": "Honor Play"
+    },
+    {
+        "name": "Realme X2 Pro",
+        "score": 94,
+        "name_bare": "Realme X2 Pro"
+    },
+    {
+        "name": "BlackBerry Motion",
+        "score": 94,
+        "name_bare": "BlackBerry Motion"
+    },
+    {
+        "name": "Huawei P40 Pro",
+        "score": 94,
+        "name_bare": "Huawei P40 Pro"
+    },
+    {
+        "name": "Oppo F9 (F9 Pro)",
+        "score": 94,
+        "name_bare": "Oppo F9 (F9 Pro)"
+    },
+    {
+        "name": "Oppo R7 Plus",
+        "score": 94,
+        "name_bare": "Oppo R7 Plus"
+    },
+    {
+        "name": "Apple iPhone 11",
+        "score": 94,
+        "name_bare": "Apple iPhone 11"
+    },
+    {
+        "name": "Realme U1",
+        "score": 93,
+        "name_bare": "Realme U1"
+    },
+    {
+        "name": "Samsung Galaxy S21 5G",
+        "score": 93,
+        "name_bare": "Samsung Galaxy S21"
+    },
+    {
+        "name": "Xiaomi Black Shark 2",
+        "score": 93,
+        "name_bare": "Xiaomi Black Shark 2"
+    },
+    {
+        "name": "Samsung Galaxy A3 (2017)",
+        "score": 93,
+        "name_bare": "Samsung Galaxy A3 (2017)"
+    },
+    {
+        "name": "Samsung Galaxy A7 (2018)",
+        "score": 93,
+        "name_bare": "Samsung Galaxy A7 (2018)"
+    },
+    {
+        "name": "Meizu M3 Note",
+        "score": 93,
+        "name_bare": "Meizu M3 Note"
+    },
+    {
+        "name": "LG V30",
+        "score": 93,
+        "name_bare": "LG V30"
+    },
+    {
+        "name": "Xiaomi Redmi Note 3",
+        "score": 93,
+        "name_bare": "Xiaomi Redmi Note 3"
+    },
+    {
+        "name": "vivo V15 Pro",
+        "score": 92,
+        "name_bare": "vivo V15 Pro"
+    },
+    {
+        "name": "Xiaomi Mi 5",
+        "score": 92,
+        "name_bare": "Xiaomi Mi 5"
+    },
+    {
+        "name": "Xiaomi Redmi Note 5 AI Dual Camera",
+        "score": 92,
+        "name_bare": "Xiaomi Redmi Note 5 AI Dual Camera"
+    },
+    {
+        "name": "Samsung Galaxy Note10",
+        "score": 92,
+        "name_bare": "Samsung Galaxy Note10"
+    },
+    {
+        "name": "Samsung Galaxy Note10 Lite",
+        "score": 92,
+        "name_bare": "Samsung Galaxy Note10 Lite"
+    },
+    {
+        "name": "Sony Xperia XA2",
+        "score": 92,
+        "name_bare": "Sony Xperia XA2"
+    },
+    {
+        "name": "Xiaomi Redmi Note 6 Pro",
+        "score": 92,
+        "name_bare": "Xiaomi Redmi Note 6 Pro"
+    },
+    {
+        "name": "Motorola Moto G6 Play",
+        "score": 92,
+        "name_bare": "Motorola Moto G6 Play"
+    },
+    {
+        "name": "Xiaomi Redmi S2 (Redmi Y2)",
+        "score": 92,
+        "name_bare": "Xiaomi Redmi S2 (Redmi Y2)"
+    },
+    {
+        "name": "Huawei Mate 20",
+        "score": 92,
+        "name_bare": "Huawei Mate 20"
+    },
+    {
+        "name": "Xiaomi Mi Note 2",
+        "score": 92,
+        "name_bare": "Xiaomi Mi Note 2"
+    },
+    {
+        "name": "Samsung Galaxy A8 (2018)",
+        "score": 92,
+        "name_bare": "Samsung Galaxy A8 (2018)"
+    },
+    {
+        "name": "Samsung Galaxy A30",
+        "score": 92,
+        "name_bare": "Samsung Galaxy A30"
+    },
+    {
+        "name": "Sony Xperia 10 II",
+        "score": 92,
+        "name_bare": "Sony Xperia 10 II"
+    },
+    {
+        "name": "Samsung Galaxy S7 edge",
+        "score": 92,
+        "name_bare": "Samsung Galaxy S7 edge"
+    },
+    {
+        "name": "ZTE Axon 30 Ultra 5G",
+        "score": 91,
+        "name_bare": "ZTE Axon 30 Ultra"
+    },
+    {
+        "name": "Oppo F5",
+        "score": 91,
+        "name_bare": "Oppo F5"
+    },
+    {
+        "name": "Samsung Galaxy A5 (2016)",
+        "score": 91,
+        "name_bare": "Samsung Galaxy A5 (2016)"
+    },
+    {
+        "name": "Realme 3 Pro",
+        "score": 91,
+        "name_bare": "Realme 3 Pro"
+    },
+    {
+        "name": "Lenovo K6 Note",
+        "score": 91,
+        "name_bare": "Lenovo K6 Note"
+    },
+    {
+        "name": "Samsung Galaxy S10+",
+        "score": 91,
+        "name_bare": "Samsung Galaxy S10+"
+    },
+    {
+        "name": "Samsung Galaxy J7",
+        "score": 91,
+        "name_bare": "Samsung Galaxy J7"
+    },
+    {
+        "name": "Oppo F7",
+        "score": 91,
+        "name_bare": "Oppo F7"
+    },
+    {
+        "name": "vivo X60 Pro+",
+        "score": 91,
+        "name_bare": "vivo X60 Pro+"
+    },
+    {
+        "name": "Oppo Reno4 Pro 5G",
+        "score": 91,
+        "name_bare": "Oppo Reno4 Pro"
+    },
+    {
+        "name": "Sony Xperia C3 Dual",
+        "score": 91,
+        "name_bare": "Sony Xperia C3 Dual"
+    },
+    {
+        "name": "Xiaomi Redmi 4 Prime",
+        "score": 91,
+        "name_bare": "Xiaomi Redmi 4 Prime"
+    },
+    {
+        "name": "Samsung Galaxy A51 5G",
+        "score": 90,
+        "name_bare": "Samsung Galaxy A51"
+    },
+    {
+        "name": "OnePlus 6T",
+        "score": 90,
+        "name_bare": "OnePlus 6T"
+    },
+    {
+        "name": "Samsung Galaxy Fold 5G",
+        "score": 90,
+        "name_bare": "Samsung Galaxy Fold"
+    },
+    {
+        "name": "Motorola DROID Turbo",
+        "score": 90,
+        "name_bare": "Motorola DROID Turbo"
+    },
+    {
+        "name": "Oppo Find X",
+        "score": 90,
+        "name_bare": "Oppo Find X"
+    },
+    {
+        "name": "Samsung Galaxy Note7",
+        "score": 90,
+        "name_bare": "Samsung Galaxy Note7"
+    },
+    {
+        "name": "Sony Xperia XZ3",
+        "score": 90,
+        "name_bare": "Sony Xperia XZ3"
+    },
+    {
+        "name": "Realme X50 Pro 5G",
+        "score": 90,
+        "name_bare": "Realme X50 Pro"
+    },
+    {
+        "name": "Samsung Galaxy Fold",
+        "score": 90,
+        "name_bare": "Samsung Galaxy Fold"
+    },
+    {
+        "name": "Samsung Galaxy Note 4",
+        "score": 90,
+        "name_bare": "Samsung Galaxy Note 4"
+    },
+    {
+        "name": "Motorola One Zoom",
+        "score": 90,
+        "name_bare": "Motorola One Zoom"
+    },
+    {
+        "name": "OnePlus 7T",
+        "score": 90,
+        "name_bare": "OnePlus 7T"
+    },
+    {
+        "name": "Samsung Galaxy A80",
+        "score": 90,
+        "name_bare": "Samsung Galaxy A80"
+    },
+    {
+        "name": "Sony Xperia Z2",
+        "score": 89,
+        "name_bare": "Sony Xperia Z2"
+    },
+    {
+        "name": "Honor Magic 2",
+        "score": 89,
+        "name_bare": "Honor Magic 2"
+    },
+    {
+        "name": "Xiaomi Mi 11",
+        "score": 89,
+        "name_bare": "Xiaomi Mi 11"
+    },
+    {
+        "name": "Samsung Galaxy Note8",
+        "score": 89,
+        "name_bare": "Samsung Galaxy Note8"
+    },
+    {
+        "name": "Honor 20",
+        "score": 89,
+        "name_bare": "Honor 20"
+    },
+    {
+        "name": "Huawei P20 Pro",
+        "score": 89,
+        "name_bare": "Huawei P20 Pro"
+    },
+    {
+        "name": "Meizu MX4",
+        "score": 89,
+        "name_bare": "Meizu MX4"
+    },
+    {
+        "name": "Honor 10 Lite",
+        "score": 89,
+        "name_bare": "Honor 10 Lite"
+    },
+    {
+        "name": "Samsung Galaxy M10",
+        "score": 89,
+        "name_bare": "Samsung Galaxy M10"
+    },
+    {
+        "name": "Huawei P40",
+        "score": 89,
+        "name_bare": "Huawei P40"
+    },
+    {
+        "name": "Sony Xperia E4",
+        "score": 88,
+        "name_bare": "Sony Xperia E4"
+    },
+    {
+        "name": "Google Pixel 2 XL",
+        "score": 88,
+        "name_bare": "Google Pixel 2 XL"
+    },
+    {
+        "name": "Sony Xperia XZ2",
+        "score": 88,
+        "name_bare": "Sony Xperia XZ2"
+    },
+    {
+        "name": "Samsung Galaxy A9 (2018)",
+        "score": 88,
+        "name_bare": "Samsung Galaxy A9 (2018)"
+    },
+    {
+        "name": "Samsung Galaxy Note20 Ultra 5G",
+        "score": 88,
+        "name_bare": "Samsung Galaxy Note20 Ultra"
+    },
+    {
+        "name": "Motorola Moto G Pro",
+        "score": 88,
+        "name_bare": "Motorola Moto G Pro"
+    },
+    {
+        "name": "Samsung Galaxy S8+",
+        "score": 88,
+        "name_bare": "Samsung Galaxy S8+"
+    },
+    {
+        "name": "Asus Zenfone 8",
+        "score": 88,
+        "name_bare": "Asus Zenfone 8"
+    },
+    {
+        "name": "Huawei P smart 2019",
+        "score": 88,
+        "name_bare": "Huawei P smart 2019"
+    },
+    {
+        "name": "ZTE nubia Red Magic 6",
+        "score": 88,
+        "name_bare": "ZTE nubia Red Magic 6"
+    },
+    {
+        "name": "vivo X50 Pro",
+        "score": 88,
+        "name_bare": "vivo X50 Pro"
+    },
+    {
+        "name": "Oppo Find X2 Pro",
+        "score": 88,
+        "name_bare": "Oppo Find X2 Pro"
+    },
+    {
+        "name": "Sony Xperia XZ2 Compact",
+        "score": 88,
+        "name_bare": "Sony Xperia XZ2 Compact"
+    },
+    {
+        "name": "Motorola Moto Z Force",
+        "score": 88,
+        "name_bare": "Motorola Moto Z Force"
+    },
+    {
+        "name": "Xiaomi Mi A1 (Mi 5X)",
+        "score": 87,
+        "name_bare": "Xiaomi Mi A1 (Mi 5X)"
+    },
+    {
+        "name": "Samsung Galaxy S20 Ultra 5G",
+        "score": 87,
+        "name_bare": "Samsung Galaxy S20 Ultra"
+    },
+    {
+        "name": "Samsung Galaxy S7 edge (USA)",
+        "score": 87,
+        "name_bare": "Samsung Galaxy S7 edge (USA)"
+    },
+    {
+        "name": "OnePlus 9",
+        "score": 87,
+        "name_bare": "OnePlus 9"
+    },
+    {
+        "name": "Huawei Mate 9 Pro",
+        "score": 87,
+        "name_bare": "Huawei Mate 9 Pro"
+    },
+    {
+        "name": "Samsung Galaxy S20+",
+        "score": 87,
+        "name_bare": "Samsung Galaxy S20+"
+    },
+    {
+        "name": "Huawei Mate 10",
+        "score": 87,
+        "name_bare": "Huawei Mate 10"
+    },
+    {
+        "name": "Nokia 7 plus",
+        "score": 87,
+        "name_bare": "Nokia 7 plus"
+    },
+    {
+        "name": "Motorola RAZR MAXX",
+        "score": 87,
+        "name_bare": "Motorola RAZR MAXX"
+    },
+    {
+        "name": "LG Wing 5G",
+        "score": 87,
+        "name_bare": "LG Wing"
+    },
+    {
+        "name": "Motorola Moto G8 Plus",
+        "score": 87,
+        "name_bare": "Motorola Moto G8 Plus"
+    },
+    {
+        "name": "Oppo R15 Pro",
+        "score": 86,
+        "name_bare": "Oppo R15 Pro"
+    },
+    {
+        "name": "Motorola Moto Z3",
+        "score": 86,
+        "name_bare": "Motorola Moto Z3"
+    },
+    {
+        "name": "Samsung Galaxy S9+",
+        "score": 86,
+        "name_bare": "Samsung Galaxy S9+"
+    },
+    {
+        "name": "Realme X",
+        "score": 86,
+        "name_bare": "Realme X"
+    },
+    {
+        "name": "Xiaomi Mi 8 SE",
+        "score": 86,
+        "name_bare": "Xiaomi Mi 8 SE"
+    },
+    {
+        "name": "Motorola Edge 20",
+        "score": 86,
+        "name_bare": "Motorola Edge 20"
+    },
+    {
+        "name": "Samsung Galaxy A51",
+        "score": 86,
+        "name_bare": "Samsung Galaxy A51"
+    },
+    {
+        "name": "ZTE Axon 30 5G",
+        "score": 86,
+        "name_bare": "ZTE Axon 30"
+    },
+    {
+        "name": "Sony Xperia Z5 Compact",
+        "score": 86,
+        "name_bare": "Sony Xperia Z5 Compact"
+    },
+    {
+        "name": "Apple iPhone 11 Pro",
+        "score": 86,
+        "name_bare": "Apple iPhone 11 Pro"
+    },
+    {
+        "name": "Samsung Galaxy A60",
+        "score": 86,
+        "name_bare": "Samsung Galaxy A60"
+    },
+    {
+        "name": "Xiaomi Mi 8",
+        "score": 86,
+        "name_bare": "Xiaomi Mi 8"
+    },
+    {
+        "name": "OnePlus 9 Pro",
+        "score": 86,
+        "name_bare": "OnePlus 9 Pro"
+    },
+    {
+        "name": "BlackBerry KEY2",
+        "score": 86,
+        "name_bare": "BlackBerry KEY2"
+    },
+    {
+        "name": "vivo Xplay5 Elite",
+        "score": 85,
+        "name_bare": "vivo Xplay5 Elite"
+    },
+    {
+        "name": "Samsung Galaxy Note5",
+        "score": 85,
+        "name_bare": "Samsung Galaxy Note5"
+    },
+    {
+        "name": "Huawei Mate 20 Pro",
+        "score": 85,
+        "name_bare": "Huawei Mate 20 Pro"
+    },
+    {
+        "name": "OnePlus 7 Pro",
+        "score": 85,
+        "name_bare": "OnePlus 7 Pro"
+    },
+    {
+        "name": "Acer Liquid X2",
+        "score": 85,
+        "name_bare": "Acer Liquid X2"
+    },
+    {
+        "name": "Xiaomi Redmi 3s Prime",
+        "score": 85,
+        "name_bare": "Xiaomi Redmi 3s Prime"
+    },
+    {
+        "name": "Apple iPhone 6s Plus",
+        "score": 85,
+        "name_bare": "Apple iPhone 6s Plus"
+    },
+    {
+        "name": "Sony Xperia Z3",
+        "score": 85,
+        "name_bare": "Sony Xperia Z3"
+    },
+    {
+        "name": "Apple iPhone 12",
+        "score": 84,
+        "name_bare": "Apple iPhone 12"
+    },
+    {
+        "name": "Xiaomi Mi Mix 3",
+        "score": 84,
+        "name_bare": "Xiaomi Mi Mix 3"
+    },
+    {
+        "name": "Samsung Galaxy S8",
+        "score": 84,
+        "name_bare": "Samsung Galaxy S8"
+    },
+    {
+        "name": "Realme 1",
+        "score": 84,
+        "name_bare": "Realme 1"
+    },
+    {
+        "name": "Honor 6X",
+        "score": 84,
+        "name_bare": "Honor 6X"
+    },
+    {
+        "name": "Xiaomi Mi 5s",
+        "score": 84,
+        "name_bare": "Xiaomi Mi 5s"
+    },
+    {
+        "name": "Huawei nova",
+        "score": 84,
+        "name_bare": "Huawei nova"
+    },
+    {
+        "name": "Nokia 5",
+        "score": 84,
+        "name_bare": "Nokia 5"
+    },
+    {
+        "name": "Motorola Moto X Play",
+        "score": 83,
+        "name_bare": "Motorola Moto X Play"
+    },
+    {
+        "name": "OnePlus 5",
+        "score": 83,
+        "name_bare": "OnePlus 5"
+    },
+    {
+        "name": "ZTE nubia Red Magic 5S",
+        "score": 83,
+        "name_bare": "ZTE nubia Red Magic 5S"
+    },
+    {
+        "name": "Sony Xperia 1 II",
+        "score": 83,
+        "name_bare": "Sony Xperia 1 II"
+    },
+    {
+        "name": "Samsung Galaxy S10e",
+        "score": 83,
+        "name_bare": "Samsung Galaxy S10e"
+    },
+    {
+        "name": "Samsung Galaxy A7 Duos",
+        "score": 83,
+        "name_bare": "Samsung Galaxy A7 Duos"
+    },
+    {
+        "name": "Samsung Galaxy S6 edge+",
+        "score": 83,
+        "name_bare": "Samsung Galaxy S6 edge+"
+    },
+    {
+        "name": "OnePlus 3T",
+        "score": 83,
+        "name_bare": "OnePlus 3T"
+    },
+    {
+        "name": "ZTE nubia Red Magic 5G",
+        "score": 83,
+        "name_bare": "ZTE nubia Red Magic"
+    },
+    {
+        "name": "Samsung Galaxy A6 (2018)",
+        "score": 83,
+        "name_bare": "Samsung Galaxy A6 (2018)"
+    },
+    {
+        "name": "Huawei P30",
+        "score": 83,
+        "name_bare": "Huawei P30"
+    },
+    {
+        "name": "Xiaomi Redmi Note 4 (MediaTek)",
+        "score": 83,
+        "name_bare": "Xiaomi Redmi Note 4 (MediaTek)"
+    },
+    {
+        "name": "Samsung Galaxy S5",
+        "score": 83,
+        "name_bare": "Samsung Galaxy S5"
+    },
+    {
+        "name": "Samsung Galaxy A7",
+        "score": 83,
+        "name_bare": "Samsung Galaxy A7"
+    },
+    {
+        "name": "Xiaomi Redmi 5",
+        "score": 83,
+        "name_bare": "Xiaomi Redmi 5"
+    },
+    {
+        "name": "Sony Xperia XZ1",
+        "score": 82,
+        "name_bare": "Sony Xperia XZ1"
+    },
+    {
+        "name": "Huawei Mate 9",
+        "score": 82,
+        "name_bare": "Huawei Mate 9"
+    },
+    {
+        "name": "OnePlus 5T",
+        "score": 82,
+        "name_bare": "OnePlus 5T"
+    },
+    {
+        "name": "Motorola Moto E (2nd gen)",
+        "score": 82,
+        "name_bare": "Motorola Moto E (2nd gen)"
+    },
+    {
+        "name": "Sony Xperia 1 III",
+        "score": 82,
+        "name_bare": "Sony Xperia 1 III"
+    },
+    {
+        "name": "ZTE Axon 20 5G",
+        "score": 82,
+        "name_bare": "ZTE Axon 20"
+    },
+    {
+        "name": "Oppo Find X Lamborghini",
+        "score": 82,
+        "name_bare": "Oppo Find X Lamborghini"
+    },
+    {
+        "name": "HTC Butterfly S",
+        "score": 81,
+        "name_bare": "HTC Butterfly S"
+    },
+    {
+        "name": "ZTE nubia Z17",
+        "score": 81,
+        "name_bare": "ZTE nubia Z17"
+    },
+    {
+        "name": "Oppo R11",
+        "score": 81,
+        "name_bare": "Oppo R11"
+    },
+    {
+        "name": "HTC U Ultra",
+        "score": 81,
+        "name_bare": "HTC U Ultra"
+    },
+    {
+        "name": "Oppo Find X3 Pro",
+        "score": 81,
+        "name_bare": "Oppo Find X3 Pro"
+    },
+    {
+        "name": "vivo NEX Dual Display",
+        "score": 81,
+        "name_bare": "vivo NEX Dual Display"
+    },
+    {
+        "name": "LG G2",
+        "score": 81,
+        "name_bare": "LG G2"
+    },
+    {
+        "name": "Huawei Ascend Mate",
+        "score": 81,
+        "name_bare": "Huawei Ascend Mate"
+    },
+    {
+        "name": "Apple iPhone 12 Pro",
+        "score": 81,
+        "name_bare": "Apple iPhone 12 Pro"
+    },
+    {
+        "name": "BlackBerry Keyone",
+        "score": 81,
+        "name_bare": "BlackBerry Keyone"
+    },
+    {
+        "name": "Apple iPhone 8 Plus",
+        "score": 81,
+        "name_bare": "Apple iPhone 8 Plus"
+    },
+    {
+        "name": "Motorola Moto G5S Plus",
+        "score": 81,
+        "name_bare": "Motorola Moto G5S Plus"
+    },
+    {
+        "name": "Samsung Galaxy Z Fold2 5G",
+        "score": 81,
+        "name_bare": "Samsung Galaxy Z Fold2"
+    },
+    {
+        "name": "Samsung Galaxy Note7 (USA)",
+        "score": 81,
+        "name_bare": "Samsung Galaxy Note7 (USA)"
+    },
+    {
+        "name": "HTC One Max",
+        "score": 81,
+        "name_bare": "HTC One Max"
+    },
+    {
+        "name": "Samsung P6800 Galaxy Tab 7.7",
+        "score": 80,
+        "name_bare": "Samsung P6800 Galaxy Tab 7.7"
+    },
+    {
+        "name": "Oppo RX17 Pro",
+        "score": 80,
+        "name_bare": "Oppo RX17 Pro"
+    },
+    {
+        "name": "Xiaomi Redmi Pro",
+        "score": 80,
+        "name_bare": "Xiaomi Redmi Pro"
+    },
+    {
+        "name": "Xiaomi Mi 6",
+        "score": 80,
+        "name_bare": "Xiaomi Mi 6"
+    },
+    {
+        "name": "Samsung Galaxy S7",
+        "score": 80,
+        "name_bare": "Samsung Galaxy S7"
+    },
+    {
+        "name": "Nokia 7.1",
+        "score": 80,
+        "name_bare": "Nokia 7.1"
+    },
+    {
+        "name": "Sony Xperia L3",
+        "score": 80,
+        "name_bare": "Sony Xperia L3"
+    },
+    {
+        "name": "Xiaomi Redmi 4 (4X)",
+        "score": 80,
+        "name_bare": "Xiaomi Redmi 4 (4X)"
+    },
+    {
+        "name": "Asus PadFone X",
+        "score": 80,
+        "name_bare": "Asus PadFone X"
+    },
+    {
+        "name": "Samsung Galaxy S10",
+        "score": 79,
+        "name_bare": "Samsung Galaxy S10"
+    },
+    {
+        "name": "LG Velvet 5G",
+        "score": 79,
+        "name_bare": "LG Velvet"
+    },
+    {
+        "name": "Huawei nova plus",
+        "score": 79,
+        "name_bare": "Huawei nova plus"
+    },
+    {
+        "name": "Nokia 9 PureView",
+        "score": 79,
+        "name_bare": "Nokia 9 PureView"
+    },
+    {
+        "name": "Apple iPhone XS Max",
+        "score": 79,
+        "name_bare": "Apple iPhone XS Max"
+    },
+    {
+        "name": "Apple iPhone 6 Plus",
+        "score": 79,
+        "name_bare": "Apple iPhone 6 Plus"
+    },
+    {
+        "name": "Oppo N1",
+        "score": 79,
+        "name_bare": "Oppo N1"
+    },
+    {
+        "name": "Sony Xperia 1",
+        "score": 79,
+        "name_bare": "Sony Xperia 1"
+    },
+    {
+        "name": "LG G8 ThinQ",
+        "score": 79,
+        "name_bare": "LG G8 ThinQ"
+    },
+    {
+        "name": "HTC One (M8) for Windows",
+        "score": 79,
+        "name_bare": "HTC One (M8) for Windows"
+    },
+    {
+        "name": "Oppo F3 Plus",
+        "score": 79,
+        "name_bare": "Oppo F3 Plus"
+    },
+    {
+        "name": "Huawei P9 lite",
+        "score": 79,
+        "name_bare": "Huawei P9 lite"
+    },
+    {
+        "name": "Oppo Reno4 Z 5G",
+        "score": 78,
+        "name_bare": "Oppo Reno4 Z"
+    },
+    {
+        "name": "Apple iPhone XR",
+        "score": 78,
+        "name_bare": "Apple iPhone XR"
+    },
+    {
+        "name": "Motorola Moto X Force",
+        "score": 78,
+        "name_bare": "Motorola Moto X Force"
+    },
+    {
+        "name": "Samsung Galaxy S9",
+        "score": 78,
+        "name_bare": "Samsung Galaxy S9"
+    },
+    {
+        "name": "Google Pixel XL",
+        "score": 78,
+        "name_bare": "Google Pixel XL"
+    },
+    {
+        "name": "Nokia 8",
+        "score": 78,
+        "name_bare": "Nokia 8"
+    },
+    {
+        "name": "Sony Xperia 10 Plus",
+        "score": 78,
+        "name_bare": "Sony Xperia 10 Plus"
+    },
+    {
+        "name": "Honor 8 Pro",
+        "score": 77,
+        "name_bare": "Honor 8 Pro"
+    },
+    {
+        "name": "Huawei P20 lite",
+        "score": 77,
+        "name_bare": "Huawei P20 lite"
+    },
+    {
+        "name": "Meizu 15",
+        "score": 77,
+        "name_bare": "Meizu 15"
+    },
+    {
+        "name": "Honor 7X",
+        "score": 77,
+        "name_bare": "Honor 7X"
+    },
+    {
+        "name": "Nokia 8 Sirocco",
+        "score": 77,
+        "name_bare": "Nokia 8 Sirocco"
+    },
+    {
+        "name": "LG G7 ThinQ",
+        "score": 77,
+        "name_bare": "LG G7 ThinQ"
+    },
+    {
+        "name": "vivo X60 Pro",
+        "score": 77,
+        "name_bare": "vivo X60 Pro"
+    },
+    {
+        "name": "vivo V7",
+        "score": 77,
+        "name_bare": "vivo V7"
+    },
+    {
+        "name": "HTC One (E8)",
+        "score": 77,
+        "name_bare": "HTC One (E8)"
+    },
+    {
+        "name": "Honor 9",
+        "score": 77,
+        "name_bare": "Honor 9"
+    },
+    {
+        "name": "Xiaomi Mi 8 Lite",
+        "score": 77,
+        "name_bare": "Xiaomi Mi 8 Lite"
+    },
+    {
+        "name": "Oppo R11s",
+        "score": 77,
+        "name_bare": "Oppo R11s"
+    },
+    {
+        "name": "Sony Xperia XZ2 Premium",
+        "score": 77,
+        "name_bare": "Sony Xperia XZ2 Premium"
+    },
+    {
+        "name": "HTC One (M8)",
+        "score": 77,
+        "name_bare": "HTC One (M8)"
+    },
+    {
+        "name": "Microsoft Lumia 640 LTE Dual SIM",
+        "score": 76,
+        "name_bare": "Microsoft Lumia 640 LTE Dual SIM"
+    },
+    {
+        "name": "Nokia 6.1",
+        "score": 76,
+        "name_bare": "Nokia 6.1"
+    },
+    {
+        "name": "Meizu M5",
+        "score": 76,
+        "name_bare": "Meizu M5"
+    },
+    {
+        "name": "Samsung Galaxy E7",
+        "score": 76,
+        "name_bare": "Samsung Galaxy E7"
+    },
+    {
+        "name": "Huawei P10 Plus",
+        "score": 76,
+        "name_bare": "Huawei P10 Plus"
+    },
+    {
+        "name": "Lenovo Vibe Z2 Pro",
+        "score": 76,
+        "name_bare": "Lenovo Vibe Z2 Pro"
+    },
+    {
+        "name": "Microsoft Lumia 640 LTE",
+        "score": 76,
+        "name_bare": "Microsoft Lumia 640 LTE"
+    },
+    {
+        "name": "OnePlus 6",
+        "score": 76,
+        "name_bare": "OnePlus 6"
+    },
+    {
+        "name": "Motorola Moto G (3rd gen)",
+        "score": 76,
+        "name_bare": "Motorola Moto G (3rd gen)"
+    },
+    {
+        "name": "Honor 5X",
+        "score": 76,
+        "name_bare": "Honor 5X"
+    },
+    {
+        "name": "Motorola Moto Z2 Play",
+        "score": 76,
+        "name_bare": "Motorola Moto Z2 Play"
+    },
+    {
+        "name": "ZTE nubia Red Magic 6R",
+        "score": 76,
+        "name_bare": "ZTE nubia Red Magic 6R"
+    },
+    {
+        "name": "Microsoft Lumia 640 Dual SIM",
+        "score": 76,
+        "name_bare": "Microsoft Lumia 640 Dual SIM"
+    },
+    {
+        "name": "ZTE nubia Z11",
+        "score": 76,
+        "name_bare": "ZTE nubia Z11"
+    },
+    {
+        "name": "vivo V5 Plus",
+        "score": 76,
+        "name_bare": "vivo V5 Plus"
+    },
+    {
+        "name": "Huawei Mate 10 Lite",
+        "score": 76,
+        "name_bare": "Huawei Mate 10 Lite"
+    },
+    {
+        "name": "Google Pixel 4a",
+        "score": 76,
+        "name_bare": "Google Pixel 4a"
+    },
+    {
+        "name": "LG G2 mini",
+        "score": 76,
+        "name_bare": "LG G2 mini"
+    },
+    {
+        "name": "Samsung Galaxy Note 3",
+        "score": 75,
+        "name_bare": "Samsung Galaxy Note 3"
+    },
+    {
+        "name": "Honor 5c",
+        "score": 75,
+        "name_bare": "Honor 5c"
+    },
+    {
+        "name": "Sony Xperia T3",
+        "score": 75,
+        "name_bare": "Sony Xperia T3"
+    },
+    {
+        "name": "Sony Xperia E3",
+        "score": 75,
+        "name_bare": "Sony Xperia E3"
+    },
+    {
+        "name": "Samsung Galaxy C5",
+        "score": 75,
+        "name_bare": "Samsung Galaxy C5"
+    },
+    {
+        "name": "Xiaomi Mi 4s",
+        "score": 75,
+        "name_bare": "Xiaomi Mi 4s"
+    },
+    {
+        "name": "Apple iPhone 7 Plus",
+        "score": 75,
+        "name_bare": "Apple iPhone 7 Plus"
+    },
+    {
+        "name": "Nokia Lumia 1320",
+        "score": 75,
+        "name_bare": "Nokia Lumia 1320"
+    },
+    {
+        "name": "Huawei P9",
+        "score": 75,
+        "name_bare": "Huawei P9"
+    },
+    {
+        "name": "Huawei P10",
+        "score": 75,
+        "name_bare": "Huawei P10"
+    },
+    {
+        "name": "Huawei P20",
+        "score": 75,
+        "name_bare": "Huawei P20"
+    },
+    {
+        "name": "Google Pixel 2",
+        "score": 75,
+        "name_bare": "Google Pixel 2"
+    },
+    {
+        "name": "Samsung Galaxy Z Fold3 5G",
+        "score": 75,
+        "name_bare": "Samsung Galaxy Z Fold3"
+    },
+    {
+        "name": "Samsung Galaxy A5",
+        "score": 74,
+        "name_bare": "Samsung Galaxy A5"
+    },
+    {
+        "name": "Asus Zenfone 3 ZE552KL",
+        "score": 74,
+        "name_bare": "Asus Zenfone 3 ZE552KL"
+    },
+    {
+        "name": "Oppo R9s",
+        "score": 74,
+        "name_bare": "Oppo R9s"
+    },
+    {
+        "name": "Microsoft Lumia 640 XL Dual SIM",
+        "score": 74,
+        "name_bare": "Microsoft Lumia 640 XL Dual SIM"
+    },
+    {
+        "name": "Xiaomi Redmi Y1 (Note 5A)",
+        "score": 74,
+        "name_bare": "Xiaomi Redmi Y1 (Note 5A)"
+    },
+    {
+        "name": "Huawei Nexus 6P",
+        "score": 74,
+        "name_bare": "Huawei Nexus 6P"
+    },
+    {
+        "name": "Apple iPhone X",
+        "score": 74,
+        "name_bare": "Apple iPhone X"
+    },
+    {
+        "name": "Honor 10",
+        "score": 74,
+        "name_bare": "Honor 10"
+    },
+    {
+        "name": "Microsoft Lumia 640 XL LTE Dual SIM",
+        "score": 74,
+        "name_bare": "Microsoft Lumia 640 XL LTE Dual SIM"
+    },
+    {
+        "name": "Archos Diamond Omega",
+        "score": 74,
+        "name_bare": "Archos Diamond Omega"
+    },
+    {
+        "name": "Samsung Galaxy Note 3 Neo",
+        "score": 74,
+        "name_bare": "Samsung Galaxy Note 3 Neo"
+    },
+    {
+        "name": "Oppo F1 Plus",
+        "score": 74,
+        "name_bare": "Oppo F1 Plus"
+    },
+    {
+        "name": "Microsoft Lumia 640 XL",
+        "score": 74,
+        "name_bare": "Microsoft Lumia 640 XL"
+    },
+    {
+        "name": "Honor View 10",
+        "score": 74,
+        "name_bare": "Honor View 10"
+    },
+    {
+        "name": "Microsoft Lumia 640 XL LTE",
+        "score": 74,
+        "name_bare": "Microsoft Lumia 640 XL LTE"
+    },
+    {
+        "name": "Huawei Mate X2",
+        "score": 74,
+        "name_bare": "Huawei Mate X2"
+    },
+    {
+        "name": "HTC U11+",
+        "score": 73,
+        "name_bare": "HTC U11+"
+    },
+    {
+        "name": "Sony Xperia X Compact",
+        "score": 73,
+        "name_bare": "Sony Xperia X Compact"
+    },
+    {
+        "name": "Lenovo Vibe K4 Note",
+        "score": 73,
+        "name_bare": "Lenovo Vibe K4 Note"
+    },
+    {
+        "name": "Google Pixel 4 XL",
+        "score": 73,
+        "name_bare": "Google Pixel 4 XL"
+    },
+    {
+        "name": "Apple iPhone SE",
+        "score": 73,
+        "name_bare": "Apple iPhone SE"
+    },
+    {
+        "name": "Oppo R7s",
+        "score": 73,
+        "name_bare": "Oppo R7s"
+    },
+    {
+        "name": "Samsung Galaxy S6 edge",
+        "score": 73,
+        "name_bare": "Samsung Galaxy S6 edge"
+    },
+    {
+        "name": "HTC U11 Life",
+        "score": 73,
+        "name_bare": "HTC U11 Life"
+    },
+    {
+        "name": "Samsung Galaxy A40",
+        "score": 73,
+        "name_bare": "Samsung Galaxy A40"
+    },
+    {
+        "name": "Xiaomi Mi A2 (Mi 6X)",
+        "score": 73,
+        "name_bare": "Xiaomi Mi A2 (Mi 6X)"
+    },
+    {
+        "name": "Sony Xperia XZs",
+        "score": 73,
+        "name_bare": "Sony Xperia XZs"
+    },
+    {
+        "name": "Samsung Galaxy S6",
+        "score": 73,
+        "name_bare": "Samsung Galaxy S6"
+    },
+    {
+        "name": "HTC U11",
+        "score": 73,
+        "name_bare": "HTC U11"
+    },
+    {
+        "name": "BlackBerry Passport",
+        "score": 73,
+        "name_bare": "BlackBerry Passport"
+    },
+    {
+        "name": "Huawei P smart",
+        "score": 73,
+        "name_bare": "Huawei P smart"
+    },
+    {
+        "name": "Nokia 6.2",
+        "score": 73,
+        "name_bare": "Nokia 6.2"
+    },
+    {
+        "name": "LG AKA",
+        "score": 73,
+        "name_bare": "LG AKA"
+    },
+    {
+        "name": "Motorola Moto G4",
+        "score": 73,
+        "name_bare": "Motorola Moto G4"
+    },
+    {
+        "name": "Xiaomi Mi 9 SE",
+        "score": 73,
+        "name_bare": "Xiaomi Mi 9 SE"
+    },
+    {
+        "name": "Samsung Galaxy S5 mini",
+        "score": 72,
+        "name_bare": "Samsung Galaxy S5 mini"
+    },
+    {
+        "name": "Sony Xperia XZ",
+        "score": 72,
+        "name_bare": "Sony Xperia XZ"
+    },
+    {
+        "name": "LG G6",
+        "score": 72,
+        "name_bare": "LG G6"
+    },
+    {
+        "name": "Xiaomi Redmi Note 3 (MediaTek)",
+        "score": 72,
+        "name_bare": "Xiaomi Redmi Note 3 (MediaTek)"
+    },
+    {
+        "name": "Sony Xperia XA1",
+        "score": 72,
+        "name_bare": "Sony Xperia XA1"
+    },
+    {
+        "name": "Apple iPhone XS",
+        "score": 72,
+        "name_bare": "Apple iPhone XS"
+    },
+    {
+        "name": "Sony Xperia XZ Premium",
+        "score": 72,
+        "name_bare": "Sony Xperia XZ Premium"
+    },
+    {
+        "name": "Sony Xperia M2 Aqua",
+        "score": 71,
+        "name_bare": "Sony Xperia M2 Aqua"
+    },
+    {
+        "name": "Huawei G8",
+        "score": 71,
+        "name_bare": "Huawei G8"
+    },
+    {
+        "name": "vivo X5Max",
+        "score": 71,
+        "name_bare": "vivo X5Max"
+    },
+    {
+        "name": "Samsung Galaxy S20",
+        "score": 71,
+        "name_bare": "Samsung Galaxy S20"
+    },
+    {
+        "name": "ZTE nubia Z9",
+        "score": 70,
+        "name_bare": "ZTE nubia Z9"
+    },
+    {
+        "name": "HTC Desire Eye",
+        "score": 70,
+        "name_bare": "HTC Desire Eye"
+    },
+    {
+        "name": "Motorola Moto Z4",
+        "score": 70,
+        "name_bare": "Motorola Moto Z4"
+    },
+    {
+        "name": "Motorola Moto G4 Plus",
+        "score": 70,
+        "name_bare": "Motorola Moto G4 Plus"
+    },
+    {
+        "name": "HTC Desire 510",
+        "score": 70,
+        "name_bare": "HTC Desire 510"
+    },
+    {
+        "name": "ZTE Axon 7",
+        "score": 70,
+        "name_bare": "ZTE Axon 7"
+    },
+    {
+        "name": "Motorola Nexus 6",
+        "score": 70,
+        "name_bare": "Motorola Nexus 6"
+    },
+    {
+        "name": "vivo V3Max",
+        "score": 70,
+        "name_bare": "vivo V3Max"
+    },
+    {
+        "name": "Meizu Pro 7 Plus",
+        "score": 70,
+        "name_bare": "Meizu Pro 7 Plus"
+    },
+    {
+        "name": "Razer Phone 2",
+        "score": 70,
+        "name_bare": "Razer Phone 2"
+    },
+    {
+        "name": "Samsung Galaxy S5 Active",
+        "score": 70,
+        "name_bare": "Samsung Galaxy S5 Active"
+    },
+    {
+        "name": "Motorola Moto G6 Plus",
+        "score": 70,
+        "name_bare": "Motorola Moto G6 Plus"
+    },
+    {
+        "name": "Honor 8",
+        "score": 70,
+        "name_bare": "Honor 8"
+    },
+    {
+        "name": "Meizu M2 Note",
+        "score": 69,
+        "name_bare": "Meizu M2 Note"
+    },
+    {
+        "name": "LG Q6",
+        "score": 69,
+        "name_bare": "LG Q6"
+    },
+    {
+        "name": "Motorola Moto Z2 Force",
+        "score": 69,
+        "name_bare": "Motorola Moto Z2 Force"
+    },
+    {
+        "name": "Huawei P9 Plus",
+        "score": 69,
+        "name_bare": "Huawei P9 Plus"
+    },
+    {
+        "name": "Samsung Galaxy Z Flip3 5G",
+        "score": 69,
+        "name_bare": "Samsung Galaxy Z Flip3"
+    },
+    {
+        "name": "Apple iPhone 12 mini",
+        "score": 69,
+        "name_bare": "Apple iPhone 12 mini"
+    },
+    {
+        "name": "Samsung Galaxy Note II N7100",
+        "score": 69,
+        "name_bare": "Samsung Galaxy Note II N7100"
+    },
+    {
+        "name": "Google Pixel 3",
+        "score": 69,
+        "name_bare": "Google Pixel 3"
+    },
+    {
+        "name": "Nokia 7.2",
+        "score": 69,
+        "name_bare": "Nokia 7.2"
+    },
+    {
+        "name": "Huawei Mate Xs",
+        "score": 69,
+        "name_bare": "Huawei Mate Xs"
+    },
+    {
+        "name": "Samsung Galaxy A5 Duos",
+        "score": 69,
+        "name_bare": "Samsung Galaxy A5 Duos"
+    },
+    {
+        "name": "Asus ROG Phone ZS600KL",
+        "score": 69,
+        "name_bare": "Asus ROG Phone ZS600KL"
+    },
+    {
+        "name": "Samsung I9505 Galaxy S4",
+        "score": 69,
+        "name_bare": "Samsung I9505 Galaxy S4"
+    },
+    {
+        "name": "Samsung Galaxy Note Edge",
+        "score": 68,
+        "name_bare": "Samsung Galaxy Note Edge"
+    },
+    {
+        "name": "Sony Xperia C",
+        "score": 68,
+        "name_bare": "Sony Xperia C"
+    },
+    {
+        "name": "Sony Xperia XA1 Ultra",
+        "score": 68,
+        "name_bare": "Sony Xperia XA1 Ultra"
+    },
+    {
+        "name": "Oppo F3",
+        "score": 68,
+        "name_bare": "Oppo F3"
+    },
+    {
+        "name": "Nokia Lumia 830",
+        "score": 68,
+        "name_bare": "Nokia Lumia 830"
+    },
+    {
+        "name": "Xiaomi Mi 4",
+        "score": 68,
+        "name_bare": "Xiaomi Mi 4"
+    },
+    {
+        "name": "LG V20",
+        "score": 68,
+        "name_bare": "LG V20"
+    },
+    {
+        "name": "Meizu MX6",
+        "score": 68,
+        "name_bare": "Meizu MX6"
+    },
+    {
+        "name": "Samsung Galaxy K zoom",
+        "score": 67,
+        "name_bare": "Samsung Galaxy K zoom"
+    },
+    {
+        "name": "Samsung Galaxy J2",
+        "score": 67,
+        "name_bare": "Samsung Galaxy J2"
+    },
+    {
+        "name": "Honor 6",
+        "score": 67,
+        "name_bare": "Honor 6"
+    },
+    {
+        "name": "vivo X5Pro",
+        "score": 67,
+        "name_bare": "vivo X5Pro"
+    },
+    {
+        "name": "Sony Xperia M2",
+        "score": 67,
+        "name_bare": "Sony Xperia M2"
+    },
+    {
+        "name": "Huawei Ascend Mate7",
+        "score": 67,
+        "name_bare": "Huawei Ascend Mate7"
+    },
+    {
+        "name": "Xiaomi Mi 4i",
+        "score": 67,
+        "name_bare": "Xiaomi Mi 4i"
+    },
+    {
+        "name": "Motorola One Vision",
+        "score": 67,
+        "name_bare": "Motorola One Vision"
+    },
+    {
+        "name": "LeEco Le Max 2",
+        "score": 67,
+        "name_bare": "LeEco Le Max 2"
+    },
+    {
+        "name": "Sony Xperia X",
+        "score": 67,
+        "name_bare": "Sony Xperia X"
+    },
+    {
+        "name": "Meizu MX4 Pro",
+        "score": 67,
+        "name_bare": "Meizu MX4 Pro"
+    },
+    {
+        "name": "Motorola One Action",
+        "score": 66,
+        "name_bare": "Motorola One Action"
+    },
+    {
+        "name": "OnePlus One",
+        "score": 66,
+        "name_bare": "OnePlus One"
+    },
+    {
+        "name": "Samsung Galaxy J5 (2016)",
+        "score": 66,
+        "name_bare": "Samsung Galaxy J5 (2016)"
+    },
+    {
+        "name": "Apple iPhone 8",
+        "score": 66,
+        "name_bare": "Apple iPhone 8"
+    },
+    {
+        "name": "HTC Butterfly 2",
+        "score": 66,
+        "name_bare": "HTC Butterfly 2"
+    },
+    {
+        "name": "Nokia Lumia 635",
+        "score": 66,
+        "name_bare": "Nokia Lumia 635"
+    },
+    {
+        "name": "Xiaomi Mi 3",
+        "score": 66,
+        "name_bare": "Xiaomi Mi 3"
+    },
+    {
+        "name": "Motorola Moto G7",
+        "score": 66,
+        "name_bare": "Motorola Moto G7"
+    },
+    {
+        "name": "Meizu M1 Note",
+        "score": 66,
+        "name_bare": "Meizu M1 Note"
+    },
+    {
+        "name": "Sony Xperia Z5 Premium",
+        "score": 66,
+        "name_bare": "Sony Xperia Z5 Premium"
+    },
+    {
+        "name": "Samsung Galaxy J3 (2016)",
+        "score": 66,
+        "name_bare": "Samsung Galaxy J3 (2016)"
+    },
+    {
+        "name": "Nokia Lumia 630",
+        "score": 66,
+        "name_bare": "Nokia Lumia 630"
+    },
+    {
+        "name": "HTC 10",
+        "score": 66,
+        "name_bare": "HTC 10"
+    },
+    {
+        "name": "OnePlus 3",
+        "score": 66,
+        "name_bare": "OnePlus 3"
+    },
+    {
+        "name": "Samsung I9500 Galaxy S4",
+        "score": 65,
+        "name_bare": "Samsung I9500 Galaxy S4"
+    },
+    {
+        "name": "Sony Xperia Z1 Compact",
+        "score": 65,
+        "name_bare": "Sony Xperia Z1 Compact"
+    },
+    {
+        "name": "Sony Xperia 10",
+        "score": 65,
+        "name_bare": "Sony Xperia 10"
+    },
+    {
+        "name": "Sony Xperia Z3+",
+        "score": 65,
+        "name_bare": "Sony Xperia Z3+"
+    },
+    {
+        "name": "ZTE nubia Z9 mini",
+        "score": 65,
+        "name_bare": "ZTE nubia Z9 mini"
+    },
+    {
+        "name": "Sony Xperia L2",
+        "score": 65,
+        "name_bare": "Sony Xperia L2"
+    },
+    {
+        "name": "Xiaomi Mi Mix 2",
+        "score": 65,
+        "name_bare": "Xiaomi Mi Mix 2"
+    },
+    {
+        "name": "Samsung Galaxy A3",
+        "score": 65,
+        "name_bare": "Samsung Galaxy A3"
+    },
+    {
+        "name": "LG V40 ThinQ",
+        "score": 64,
+        "name_bare": "LG V40 ThinQ"
+    },
+    {
+        "name": "Motorola Moto G6",
+        "score": 64,
+        "name_bare": "Motorola Moto G6"
+    },
+    {
+        "name": "HTC Desire 816",
+        "score": 64,
+        "name_bare": "HTC Desire 816"
+    },
+    {
+        "name": "Huawei P8",
+        "score": 64,
+        "name_bare": "Huawei P8"
+    },
+    {
+        "name": "Oppo N3",
+        "score": 64,
+        "name_bare": "Oppo N3"
+    },
+    {
+        "name": "Motorola Moto X4",
+        "score": 64,
+        "name_bare": "Motorola Moto X4"
+    },
+    {
+        "name": "Motorola RAZR i XT890",
+        "score": 64,
+        "name_bare": "Motorola RAZR i XT890"
+    },
+    {
+        "name": "HTC U12+",
+        "score": 64,
+        "name_bare": "HTC U12+"
+    },
+    {
+        "name": "Lenovo Vibe K5",
+        "score": 64,
+        "name_bare": "Lenovo Vibe K5"
+    },
+    {
+        "name": "Motorola Moto G 4G",
+        "score": 64,
+        "name_bare": "Motorola Moto G 4G"
+    },
+    {
+        "name": "Honor 7",
+        "score": 64,
+        "name_bare": "Honor 7"
+    },
+    {
+        "name": "Microsoft Lumia 435 Dual SIM",
+        "score": 64,
+        "name_bare": "Microsoft Lumia 435 Dual SIM"
+    },
+    {
+        "name": "Google Pixel",
+        "score": 64,
+        "name_bare": "Google Pixel"
+    },
+    {
+        "name": "Oppo R7",
+        "score": 63,
+        "name_bare": "Oppo R7"
+    },
+    {
+        "name": "Asus Zenfone Selfie ZD551KL",
+        "score": 63,
+        "name_bare": "Asus Zenfone Selfie ZD551KL"
+    },
+    {
+        "name": "Sony Xperia L1",
+        "score": 63,
+        "name_bare": "Sony Xperia L1"
+    },
+    {
+        "name": "Huawei Y7 Prime (2018)",
+        "score": 63,
+        "name_bare": "Huawei Y7 Prime (2018)"
+    },
+    {
+        "name": "LG G3",
+        "score": 63,
+        "name_bare": "LG G3"
+    },
+    {
+        "name": "Samsung P6200 Galaxy Tab 7.0 Plus",
+        "score": 63,
+        "name_bare": "Samsung P6200 Galaxy Tab 7.0 Plus"
+    },
+    {
+        "name": "Motorola Moto X Style",
+        "score": 63,
+        "name_bare": "Motorola Moto X Style"
+    },
+    {
+        "name": "HTC One M9",
+        "score": 62,
+        "name_bare": "HTC One M9"
+    },
+    {
+        "name": "BlackBerry Priv",
+        "score": 62,
+        "name_bare": "BlackBerry Priv"
+    },
+    {
+        "name": "Huawei P10 Lite",
+        "score": 62,
+        "name_bare": "Huawei P10 Lite"
+    },
+    {
+        "name": "Razer Phone",
+        "score": 62,
+        "name_bare": "Razer Phone"
+    },
+    {
+        "name": "Apple iPhone 6s",
+        "score": 62,
+        "name_bare": "Apple iPhone 6s"
+    },
+    {
+        "name": "Sony Xperia ZR",
+        "score": 62,
+        "name_bare": "Sony Xperia ZR"
+    },
+    {
+        "name": "Nokia XL",
+        "score": 62,
+        "name_bare": "Nokia XL"
+    },
+    {
+        "name": "Sony Xperia C5 Ultra",
+        "score": 62,
+        "name_bare": "Sony Xperia C5 Ultra"
+    },
+    {
+        "name": "Samsung Galaxy Core LTE",
+        "score": 62,
+        "name_bare": "Samsung Galaxy Core LTE"
+    },
+    {
+        "name": "LG G Flex2",
+        "score": 62,
+        "name_bare": "LG G Flex2"
+    },
+    {
+        "name": "Lenovo Vibe K5 Plus",
+        "score": 62,
+        "name_bare": "Lenovo Vibe K5 Plus"
+    },
+    {
+        "name": "Microsoft Lumia 950 XL",
+        "score": 62,
+        "name_bare": "Microsoft Lumia 950 XL"
+    },
+    {
+        "name": "Google Pixel 4",
+        "score": 62,
+        "name_bare": "Google Pixel 4"
+    },
+    {
+        "name": "Huawei MediaPad 7 Vogue",
+        "score": 62,
+        "name_bare": "Huawei MediaPad 7 Vogue"
+    },
+    {
+        "name": "Nokia 6",
+        "score": 62,
+        "name_bare": "Nokia 6"
+    },
+    {
+        "name": "Meizu M1 Metal",
+        "score": 61,
+        "name_bare": "Meizu M1 Metal"
+    },
+    {
+        "name": "Nokia Lumia 1020",
+        "score": 61,
+        "name_bare": "Nokia Lumia 1020"
+    },
+    {
+        "name": "Motorola DROID RAZR MAXX",
+        "score": 61,
+        "name_bare": "Motorola DROID RAZR MAXX"
+    },
+    {
+        "name": "LG G Pro 2",
+        "score": 61,
+        "name_bare": "LG G Pro 2"
+    },
+    {
+        "name": "Samsung Galaxy S4 zoom",
+        "score": 61,
+        "name_bare": "Samsung Galaxy S4 zoom"
+    },
+    {
+        "name": "Huawei P8lite ALE-L04",
+        "score": 61,
+        "name_bare": "Huawei P8lite ALE-L04"
+    },
+    {
+        "name": "Sony Xperia X Performance",
+        "score": 61,
+        "name_bare": "Sony Xperia X Performance"
+    },
+    {
+        "name": "OnePlus 2",
+        "score": 61,
+        "name_bare": "OnePlus 2"
+    },
+    {
+        "name": "Apple iPhone 6",
+        "score": 61,
+        "name_bare": "Apple iPhone 6"
+    },
+    {
+        "name": "Apple iPhone 7",
+        "score": 61,
+        "name_bare": "Apple iPhone 7"
+    },
+    {
+        "name": "LG Nexus 5X",
+        "score": 60,
+        "name_bare": "LG Nexus 5X"
+    },
+    {
+        "name": "Motorola Moto E",
+        "score": 60,
+        "name_bare": "Motorola Moto E"
+    },
+    {
+        "name": "Oppo Find 7a",
+        "score": 60,
+        "name_bare": "Oppo Find 7a"
+    },
+    {
+        "name": "Microsoft Lumia 532 Dual SIM",
+        "score": 60,
+        "name_bare": "Microsoft Lumia 532 Dual SIM"
+    },
+    {
+        "name": "LG G5",
+        "score": 60,
+        "name_bare": "LG G5"
+    },
+    {
+        "name": "vivo V5",
+        "score": 60,
+        "name_bare": "vivo V5"
+    },
+    {
+        "name": "Samsung Galaxy Mega 6.3 I9200",
+        "score": 60,
+        "name_bare": "Samsung Galaxy Mega 6.3 I9200"
+    },
+    {
+        "name": "Motorola Moto E Dual SIM",
+        "score": 60,
+        "name_bare": "Motorola Moto E Dual SIM"
+    },
+    {
+        "name": "Samsung ATIV SE",
+        "score": 60,
+        "name_bare": "Samsung ATIV SE"
+    },
+    {
+        "name": "Samsung Galaxy A3 Duos",
+        "score": 60,
+        "name_bare": "Samsung Galaxy A3 Duos"
+    },
+    {
+        "name": "Nokia Lumia 720",
+        "score": 60,
+        "name_bare": "Nokia Lumia 720"
+    },
+    {
+        "name": "Huawei Mate S",
+        "score": 60,
+        "name_bare": "Huawei Mate S"
+    },
+    {
+        "name": "Archos 50 Diamond",
+        "score": 60,
+        "name_bare": "Archos 50 Diamond"
+    },
+    {
+        "name": "Motorola Moto G7 Plus",
+        "score": 59,
+        "name_bare": "Motorola Moto G7 Plus"
+    },
+    {
+        "name": "Nokia Lumia 735",
+        "score": 59,
+        "name_bare": "Nokia Lumia 735"
+    },
+    {
+        "name": "Asus Zenfone 2 ZE551ML",
+        "score": 59,
+        "name_bare": "Asus Zenfone 2 ZE551ML"
+    },
+    {
+        "name": "HTC One E9+",
+        "score": 59,
+        "name_bare": "HTC One E9+"
+    },
+    {
+        "name": "Apple iPhone SE (2020)",
+        "score": 59,
+        "name_bare": "Apple iPhone SE (2020)"
+    },
+    {
+        "name": "Asus Zenfone 2 Deluxe ZE551ML",
+        "score": 59,
+        "name_bare": "Asus Zenfone 2 Deluxe ZE551ML"
+    },
+    {
+        "name": "Samsung Galaxy Express I8730",
+        "score": 59,
+        "name_bare": "Samsung Galaxy Express I8730"
+    },
+    {
+        "name": "Xiaomi Mi Mix 2S",
+        "score": 59,
+        "name_bare": "Xiaomi Mi Mix 2S"
+    },
+    {
+        "name": "Samsung Galaxy Grand Neo",
+        "score": 59,
+        "name_bare": "Samsung Galaxy Grand Neo"
+    },
+    {
+        "name": "Oppo F1",
+        "score": 58,
+        "name_bare": "Oppo F1"
+    },
+    {
+        "name": "Microsoft Lumia 435",
+        "score": 58,
+        "name_bare": "Microsoft Lumia 435"
+    },
+    {
+        "name": "HTC 10 evo",
+        "score": 58,
+        "name_bare": "HTC 10 evo"
+    },
+    {
+        "name": "Meizu Pro 6",
+        "score": 57,
+        "name_bare": "Meizu Pro 6"
+    },
+    {
+        "name": "Yota YotaPhone 2",
+        "score": 57,
+        "name_bare": "Yota YotaPhone 2"
+    },
+    {
+        "name": "Samsung Ativ Odyssey I930",
+        "score": 57,
+        "name_bare": "Samsung Ativ Odyssey I930"
+    },
+    {
+        "name": "Samsung I9295 Galaxy S4 Active",
+        "score": 57,
+        "name_bare": "Samsung I9295 Galaxy S4 Active"
+    },
+    {
+        "name": "HTC First",
+        "score": 57,
+        "name_bare": "HTC First"
+    },
+    {
+        "name": "Meizu M5s",
+        "score": 56,
+        "name_bare": "Meizu M5s"
+    },
+    {
+        "name": "Asus PadFone 2",
+        "score": 56,
+        "name_bare": "Asus PadFone 2"
+    },
+    {
+        "name": "Samsung Galaxy Grand I9082",
+        "score": 56,
+        "name_bare": "Samsung Galaxy Grand I9082"
+    },
+    {
+        "name": "Sony Xperia E1",
+        "score": 56,
+        "name_bare": "Sony Xperia E1"
+    },
+    {
+        "name": "Oppo R1x",
+        "score": 56,
+        "name_bare": "Oppo R1x"
+    },
+    {
+        "name": "LG V10",
+        "score": 56,
+        "name_bare": "LG V10"
+    },
+    {
+        "name": "Acer Liquid Jade Primo",
+        "score": 56,
+        "name_bare": "Acer Liquid Jade Primo"
+    },
+    {
+        "name": "Sony Xperia C5 Ultra Dual",
+        "score": 56,
+        "name_bare": "Sony Xperia C5 Ultra Dual"
+    },
+    {
+        "name": "Oppo R819",
+        "score": 56,
+        "name_bare": "Oppo R819"
+    },
+    {
+        "name": "BlackBerry Q10",
+        "score": 56,
+        "name_bare": "BlackBerry Q10"
+    },
+    {
+        "name": "Nokia 3.1",
+        "score": 56,
+        "name_bare": "Nokia 3.1"
+    },
+    {
+        "name": "Motorola Moto M",
+        "score": 55,
+        "name_bare": "Motorola Moto M"
+    },
+    {
+        "name": "Xiaomi Redmi Note",
+        "score": 55,
+        "name_bare": "Xiaomi Redmi Note"
+    },
+    {
+        "name": "BlackBerry Q5",
+        "score": 55,
+        "name_bare": "BlackBerry Q5"
+    },
+    {
+        "name": "Sony Xperia XA Ultra",
+        "score": 55,
+        "name_bare": "Sony Xperia XA Ultra"
+    },
+    {
+        "name": "Xiaomi Redmi 2",
+        "score": 55,
+        "name_bare": "Xiaomi Redmi 2"
+    },
+    {
+        "name": "Microsoft Lumia 532",
+        "score": 55,
+        "name_bare": "Microsoft Lumia 532"
+    },
+    {
+        "name": "Microsoft Lumia 650",
+        "score": 55,
+        "name_bare": "Microsoft Lumia 650"
+    },
+    {
+        "name": "Meizu MX5",
+        "score": 55,
+        "name_bare": "Meizu MX5"
+    },
+    {
+        "name": "Gionee Elife S5.1",
+        "score": 55,
+        "name_bare": "Gionee Elife S5.1"
+    },
+    {
+        "name": "Motorola DROID RAZR M",
+        "score": 55,
+        "name_bare": "Motorola DROID RAZR M"
+    },
+    {
+        "name": "alcatel Hero",
+        "score": 55,
+        "name_bare": "alcatel Hero"
+    },
+    {
+        "name": "Samsung I9190 Galaxy S4 mini",
+        "score": 54,
+        "name_bare": "Samsung I9190 Galaxy S4 mini"
+    },
+    {
+        "name": "Apple iPhone 5s",
+        "score": 54,
+        "name_bare": "Apple iPhone 5s"
+    },
+    {
+        "name": "Lenovo Vibe Shot",
+        "score": 54,
+        "name_bare": "Lenovo Vibe Shot"
+    },
+    {
+        "name": "Sony Xperia XA",
+        "score": 54,
+        "name_bare": "Sony Xperia XA"
+    },
+    {
+        "name": "OnePlus X",
+        "score": 54,
+        "name_bare": "OnePlus X"
+    },
+    {
+        "name": "LG G4",
+        "score": 54,
+        "name_bare": "LG G4"
+    },
+    {
+        "name": "Lenovo S90 Sisley",
+        "score": 54,
+        "name_bare": "Lenovo S90 Sisley"
+    },
+    {
+        "name": "Sony Xperia M",
+        "score": 54,
+        "name_bare": "Sony Xperia M"
+    },
+    {
+        "name": "Motorola Moto G",
+        "score": 54,
+        "name_bare": "Motorola Moto G"
+    },
+    {
+        "name": "Huawei Ascend P7",
+        "score": 53,
+        "name_bare": "Huawei Ascend P7"
+    },
+    {
+        "name": "Motorola Moto Z",
+        "score": 53,
+        "name_bare": "Motorola Moto Z"
+    },
+    {
+        "name": "Nokia 3",
+        "score": 53,
+        "name_bare": "Nokia 3"
+    },
+    {
+        "name": "HTC Desire 600 dual sim",
+        "score": 53,
+        "name_bare": "HTC Desire 600 dual sim"
+    },
+    {
+        "name": "Sony Xperia Z1",
+        "score": 53,
+        "name_bare": "Sony Xperia Z1"
+    },
+    {
+        "name": "Lenovo K3 Note",
+        "score": 53,
+        "name_bare": "Lenovo K3 Note"
+    },
+    {
+        "name": "Huawei P8lite",
+        "score": 53,
+        "name_bare": "Huawei P8lite"
+    },
+    {
+        "name": "Sony Xperia C4 Dual",
+        "score": 53,
+        "name_bare": "Sony Xperia C4 Dual"
+    },
+    {
+        "name": "HTC Desire 616 dual sim",
+        "score": 52,
+        "name_bare": "HTC Desire 616 dual sim"
+    },
+    {
+        "name": "Apple iPhone 5c",
+        "score": 52,
+        "name_bare": "Apple iPhone 5c"
+    },
+    {
+        "name": "HTC Desire 700 dual sim",
+        "score": 52,
+        "name_bare": "HTC Desire 700 dual sim"
+    },
+    {
+        "name": "Samsung I8530 Galaxy Beam",
+        "score": 52,
+        "name_bare": "Samsung I8530 Galaxy Beam"
+    },
+    {
+        "name": "Sony Xperia Z Ultra",
+        "score": 52,
+        "name_bare": "Sony Xperia Z Ultra"
+    },
+    {
+        "name": "Xiaomi Mi 4c",
+        "score": 52,
+        "name_bare": "Xiaomi Mi 4c"
+    },
+    {
+        "name": "Samsung Galaxy Alpha",
+        "score": 52,
+        "name_bare": "Samsung Galaxy Alpha"
+    },
+    {
+        "name": "ZTE Blade S6",
+        "score": 51,
+        "name_bare": "ZTE Blade S6"
+    },
+    {
+        "name": "Samsung Galaxy Premier I9260",
+        "score": 51,
+        "name_bare": "Samsung Galaxy Premier I9260"
+    },
+    {
+        "name": "Sony Xperia SP",
+        "score": 51,
+        "name_bare": "Sony Xperia SP"
+    },
+    {
+        "name": "Xiaomi Redmi 1S",
+        "score": 51,
+        "name_bare": "Xiaomi Redmi 1S"
+    },
+    {
+        "name": "Apple iPhone 5",
+        "score": 51,
+        "name_bare": "Apple iPhone 5"
+    },
+    {
+        "name": "HTC One mini 2",
+        "score": 50,
+        "name_bare": "HTC One mini 2"
+    },
+    {
+        "name": "LG Optimus G Pro E985",
+        "score": 50,
+        "name_bare": "LG Optimus G Pro E985"
+    },
+    {
+        "name": "Motorola Moto G (2nd gen)",
+        "score": 50,
+        "name_bare": "Motorola Moto G (2nd gen)"
+    },
+    {
+        "name": "Sony Xperia J",
+        "score": 50,
+        "name_bare": "Sony Xperia J"
+    },
+    {
+        "name": "Samsung I9300 Galaxy S III",
+        "score": 50,
+        "name_bare": "Samsung I9300 Galaxy S III"
+    },
+    {
+        "name": "Samsung I9105 Galaxy S II Plus",
+        "score": 50,
+        "name_bare": "Samsung I9105 Galaxy S II Plus"
+    },
+    {
+        "name": "Lenovo Vibe X2",
+        "score": 50,
+        "name_bare": "Lenovo Vibe X2"
+    },
+    {
+        "name": "HTC Desire 820",
+        "score": 49,
+        "name_bare": "HTC Desire 820"
+    },
+    {
+        "name": "Nokia Lumia 520",
+        "score": 49,
+        "name_bare": "Nokia Lumia 520"
+    },
+    {
+        "name": "Xiaomi Redmi Note 2",
+        "score": 49,
+        "name_bare": "Xiaomi Redmi Note 2"
+    },
+    {
+        "name": "HTC Desire 820 dual sim",
+        "score": 49,
+        "name_bare": "HTC Desire 820 dual sim"
+    },
+    {
+        "name": "Samsung Galaxy Core I8260",
+        "score": 49,
+        "name_bare": "Samsung Galaxy Core I8260"
+    },
+    {
+        "name": "HTC DROID DNA",
+        "score": 49,
+        "name_bare": "HTC DROID DNA"
+    },
+    {
+        "name": "Pantech Discover",
+        "score": 48,
+        "name_bare": "Pantech Discover"
+    },
+    {
+        "name": "Xiaomi Mi Note",
+        "score": 48,
+        "name_bare": "Xiaomi Mi Note"
+    },
+    {
+        "name": "Sony Xperia Z5",
+        "score": 48,
+        "name_bare": "Sony Xperia Z5"
+    },
+    {
+        "name": "Samsung S7710 Galaxy Xcover 2",
+        "score": 48,
+        "name_bare": "Samsung S7710 Galaxy Xcover 2"
+    },
+    {
+        "name": "Gionee Elife S5.5",
+        "score": 48,
+        "name_bare": "Gionee Elife S5.5"
+    },
+    {
+        "name": "HTC One",
+        "score": 48,
+        "name_bare": "HTC One"
+    },
+    {
+        "name": "Sony Xperia Z",
+        "score": 48,
+        "name_bare": "Sony Xperia Z"
+    },
+    {
+        "name": "Nokia Lumia 810",
+        "score": 48,
+        "name_bare": "Nokia Lumia 810"
+    },
+    {
+        "name": "Microsoft Lumia 950",
+        "score": 48,
+        "name_bare": "Microsoft Lumia 950"
+    },
+    {
+        "name": "Motorola Moto X (2nd Gen)",
+        "score": 48,
+        "name_bare": "Motorola Moto X (2nd Gen)"
+    },
+    {
+        "name": "Microsoft Lumia 950 XL Dual SIM",
+        "score": 47,
+        "name_bare": "Microsoft Lumia 950 XL Dual SIM"
+    },
+    {
+        "name": "HTC Desire 500",
+        "score": 47,
+        "name_bare": "HTC Desire 500"
+    },
+    {
+        "name": "Sony Xperia E4g",
+        "score": 47,
+        "name_bare": "Sony Xperia E4g"
+    },
+    {
+        "name": "Sony Xperia E5",
+        "score": 47,
+        "name_bare": "Sony Xperia E5"
+    },
+    {
+        "name": "Nokia Lumia 930",
+        "score": 46,
+        "name_bare": "Nokia Lumia 930"
+    },
+    {
+        "name": "Huawei Ascend P6",
+        "score": 46,
+        "name_bare": "Huawei Ascend P6"
+    },
+    {
+        "name": "HTC One A9",
+        "score": 46,
+        "name_bare": "HTC One A9"
+    },
+    {
+        "name": "BlackBerry Z10",
+        "score": 46,
+        "name_bare": "BlackBerry Z10"
+    },
+    {
+        "name": "Samsung Rugby Smart I847",
+        "score": 45,
+        "name_bare": "Samsung Rugby Smart I847"
+    },
+    {
+        "name": "Apple iPhone 4s",
+        "score": 45,
+        "name_bare": "Apple iPhone 4s"
+    },
+    {
+        "name": "BlackBerry Leap",
+        "score": 45,
+        "name_bare": "BlackBerry Leap"
+    },
+    {
+        "name": "alcatel Idol X+",
+        "score": 45,
+        "name_bare": "alcatel Idol X+"
+    },
+    {
+        "name": "HTC Butterfly",
+        "score": 45,
+        "name_bare": "HTC Butterfly"
+    },
+    {
+        "name": "Samsung Galaxy Grand 2",
+        "score": 45,
+        "name_bare": "Samsung Galaxy Grand 2"
+    },
+    {
+        "name": "LG Optimus G E975",
+        "score": 45,
+        "name_bare": "LG Optimus G E975"
+    },
+    {
+        "name": "Sony Xperia ZL",
+        "score": 44,
+        "name_bare": "Sony Xperia ZL"
+    },
+    {
+        "name": "Nokia Lumia 920",
+        "score": 44,
+        "name_bare": "Nokia Lumia 920"
+    },
+    {
+        "name": "Microsoft Lumia 535 Dual SIM",
+        "score": 44,
+        "name_bare": "Microsoft Lumia 535 Dual SIM"
+    },
+    {
+        "name": "HTC One X+",
+        "score": 44,
+        "name_bare": "HTC One X+"
+    },
+    {
+        "name": "Oppo Find 7",
+        "score": 44,
+        "name_bare": "Oppo Find 7"
+    },
+    {
+        "name": "Samsung S8600 Wave 3",
+        "score": 44,
+        "name_bare": "Samsung S8600 Wave 3"
+    },
+    {
+        "name": "Nokia Lumia 510",
+        "score": 44,
+        "name_bare": "Nokia Lumia 510"
+    },
+    {
+        "name": "Acer Liquid Jade S",
+        "score": 43,
+        "name_bare": "Acer Liquid Jade S"
+    },
+    {
+        "name": "Oppo Find 5",
+        "score": 43,
+        "name_bare": "Oppo Find 5"
+    },
+    {
+        "name": "Nokia Lumia 610",
+        "score": 43,
+        "name_bare": "Nokia Lumia 610"
+    },
+    {
+        "name": "Samsung Galaxy S Duos S7562",
+        "score": 43,
+        "name_bare": "Samsung Galaxy S Duos S7562"
+    },
+    {
+        "name": "Samsung I8190 Galaxy S III mini",
+        "score": 42,
+        "name_bare": "Samsung I8190 Galaxy S III mini"
+    },
+    {
+        "name": "Samsung Galaxy Ace Duos S6802",
+        "score": 42,
+        "name_bare": "Samsung Galaxy Ace Duos S6802"
+    },
+    {
+        "name": "Microsoft Lumia 550",
+        "score": 42,
+        "name_bare": "Microsoft Lumia 550"
+    },
+    {
+        "name": "Sony Ericsson Xperia neo V",
+        "score": 42,
+        "name_bare": "Sony Ericsson Xperia neo V"
+    },
+    {
+        "name": "LG Optimus L9 P760",
+        "score": 42,
+        "name_bare": "LG Optimus L9 P760"
+    },
+    {
+        "name": "HTC Vivid",
+        "score": 42,
+        "name_bare": "HTC Vivid"
+    },
+    {
+        "name": "HTC Desire X",
+        "score": 42,
+        "name_bare": "HTC Desire X"
+    },
+    {
+        "name": "HTC DROID Incredible 4G LTE",
+        "score": 42,
+        "name_bare": "HTC DROID Incredible 4G LTE"
+    },
+    {
+        "name": "Sony Xperia E",
+        "score": 41,
+        "name_bare": "Sony Xperia E"
+    },
+    {
+        "name": "Nokia Lumia 928",
+        "score": 41,
+        "name_bare": "Nokia Lumia 928"
+    },
+    {
+        "name": "Nokia Lumia 820",
+        "score": 40,
+        "name_bare": "Nokia Lumia 820"
+    },
+    {
+        "name": "Samsung Galaxy Note I717",
+        "score": 40,
+        "name_bare": "Samsung Galaxy Note I717"
+    },
+    {
+        "name": "Samsung I9100 Galaxy S II",
+        "score": 40,
+        "name_bare": "Samsung I9100 Galaxy S II"
+    },
+    {
+        "name": "Samsung Galaxy S III I747",
+        "score": 40,
+        "name_bare": "Samsung Galaxy S III I747"
+    },
+    {
+        "name": "LG Optimus 4X HD P880",
+        "score": 40,
+        "name_bare": "LG Optimus 4X HD P880"
+    },
+    {
+        "name": "HTC One mini",
+        "score": 40,
+        "name_bare": "HTC One mini"
+    },
+    {
+        "name": "HTC Sensation XL",
+        "score": 40,
+        "name_bare": "HTC Sensation XL"
+    },
+    {
+        "name": "Nokia Lumia Icon",
+        "score": 40,
+        "name_bare": "Nokia Lumia Icon"
+    },
+    {
+        "name": "HTC Rhyme",
+        "score": 39,
+        "name_bare": "HTC Rhyme"
+    },
+    {
+        "name": "Motorola Moto X",
+        "score": 39,
+        "name_bare": "Motorola Moto X"
+    },
+    {
+        "name": "Samsung i927 Captivate Glide",
+        "score": 39,
+        "name_bare": "Samsung i927 Captivate Glide"
+    },
+    {
+        "name": "BlackBerry Curve 9380",
+        "score": 39,
+        "name_bare": "BlackBerry Curve 9380"
+    },
+    {
+        "name": "Samsung Galaxy Note N7000",
+        "score": 39,
+        "name_bare": "Samsung Galaxy Note N7000"
+    },
+    {
+        "name": "Meizu MX",
+        "score": 39,
+        "name_bare": "Meizu MX"
+    },
+    {
+        "name": "Sony Xperia L",
+        "score": 39,
+        "name_bare": "Sony Xperia L"
+    },
+    {
+        "name": "Nokia N9",
+        "score": 39,
+        "name_bare": "Nokia N9"
+    },
+    {
+        "name": "Samsung Galaxy S Blaze 4G T769",
+        "score": 39,
+        "name_bare": "Samsung Galaxy S Blaze 4G T769"
+    },
+    {
+        "name": "LG Optimus GJ E975W",
+        "score": 39,
+        "name_bare": "LG Optimus GJ E975W"
+    },
+    {
+        "name": "Meizu MX 4-core",
+        "score": 38,
+        "name_bare": "Meizu MX 4-core"
+    },
+    {
+        "name": "Nokia Lumia 900",
+        "score": 38,
+        "name_bare": "Nokia Lumia 900"
+    },
+    {
+        "name": "HTC One SV",
+        "score": 38,
+        "name_bare": "HTC One SV"
+    },
+    {
+        "name": "Samsung Galaxy mini 2 S6500",
+        "score": 38,
+        "name_bare": "Samsung Galaxy mini 2 S6500"
+    },
+    {
+        "name": "Samsung Focus S I937",
+        "score": 38,
+        "name_bare": "Samsung Focus S I937"
+    },
+    {
+        "name": "Nokia X",
+        "score": 38,
+        "name_bare": "Nokia X"
+    },
+    {
+        "name": "LG Nexus 5",
+        "score": 38,
+        "name_bare": "LG Nexus 5"
+    },
+    {
+        "name": "Oppo R5",
+        "score": 38,
+        "name_bare": "Oppo R5"
+    },
+    {
+        "name": "HTC One X",
+        "score": 37,
+        "name_bare": "HTC One X"
+    },
+    {
+        "name": "LG Optimus Vu F100S",
+        "score": 37,
+        "name_bare": "LG Optimus Vu F100S"
+    },
+    {
+        "name": "Sony Ericsson Xperia pro",
+        "score": 37,
+        "name_bare": "Sony Ericsson Xperia pro"
+    },
+    {
+        "name": "Sony Xperia T",
+        "score": 36,
+        "name_bare": "Sony Xperia T"
+    },
+    {
+        "name": "Samsung I9103 Galaxy R",
+        "score": 36,
+        "name_bare": "Samsung I9103 Galaxy R"
+    },
+    {
+        "name": "Motorola ATRIX HD MB886",
+        "score": 36,
+        "name_bare": "Motorola ATRIX HD MB886"
+    },
+    {
+        "name": "Sony Xperia acro S",
+        "score": 36,
+        "name_bare": "Sony Xperia acro S"
+    },
+    {
+        "name": "Nokia Lumia 620",
+        "score": 36,
+        "name_bare": "Nokia Lumia 620"
+    },
+    {
+        "name": "Meizu MX3",
+        "score": 36,
+        "name_bare": "Meizu MX3"
+    },
+    {
+        "name": "HTC One S C2",
+        "score": 35,
+        "name_bare": "HTC One S C2"
+    },
+    {
+        "name": "BlackBerry Bold 9790",
+        "score": 35,
+        "name_bare": "BlackBerry Bold 9790"
+    },
+    {
+        "name": "Nokia Lumia 800",
+        "score": 35,
+        "name_bare": "Nokia Lumia 800"
+    },
+    {
+        "name": "HTC One S",
+        "score": 35,
+        "name_bare": "HTC One S"
+    },
+    {
+        "name": "LG Optimus 3D Max P720",
+        "score": 34,
+        "name_bare": "LG Optimus 3D Max P720"
+    },
+    {
+        "name": "Samsung Galaxy Pocket S5300",
+        "score": 34,
+        "name_bare": "Samsung Galaxy Pocket S5300"
+    },
+    {
+        "name": "Nokia 808 PureView",
+        "score": 34,
+        "name_bare": "Nokia 808 PureView"
+    },
+    {
+        "name": "HTC Radar",
+        "score": 34,
+        "name_bare": "HTC Radar"
+    },
+    {
+        "name": "Samsung Galaxy Ace 3",
+        "score": 34,
+        "name_bare": "Samsung Galaxy Ace 3"
+    },
+    {
+        "name": "Huawei Ascend P1",
+        "score": 34,
+        "name_bare": "Huawei Ascend P1"
+    },
+    {
+        "name": "Samsung Galaxy Fame S6810",
+        "score": 33,
+        "name_bare": "Samsung Galaxy Fame S6810"
+    },
+    {
+        "name": "HTC Rezound",
+        "score": 32,
+        "name_bare": "HTC Rezound"
+    },
+    {
+        "name": "LG Nexus 4 E960",
+        "score": 32,
+        "name_bare": "LG Nexus 4 E960"
+    },
+    {
+        "name": "HTC Windows Phone 8X",
+        "score": 31,
+        "name_bare": "HTC Windows Phone 8X"
+    },
+    {
+        "name": "Sony Xperia ion LTE",
+        "score": 31,
+        "name_bare": "Sony Xperia ion LTE"
+    },
+    {
+        "name": "HTC One V",
+        "score": 31,
+        "name_bare": "HTC One V"
+    },
+    {
+        "name": "Pantech Burst",
+        "score": 31,
+        "name_bare": "Pantech Burst"
+    },
+    {
+        "name": "Samsung Galaxy Nexus I9250",
+        "score": 31,
+        "name_bare": "Samsung Galaxy Nexus I9250"
+    },
+    {
+        "name": "Acer CloudMobile S500",
+        "score": 30,
+        "name_bare": "Acer CloudMobile S500"
+    },
+    {
+        "name": "Sony Xperia E dual",
+        "score": 30,
+        "name_bare": "Sony Xperia E dual"
+    },
+    {
+        "name": "Nokia Lumia 900 AT&T",
+        "score": 29,
+        "name_bare": "Nokia Lumia 900 AT&T"
+    },
+    {
+        "name": "LG Nitro HD",
+        "score": 28,
+        "name_bare": "LG Nitro HD"
+    },
+    {
+        "name": "Sony Xperia P",
+        "score": 28,
+        "name_bare": "Sony Xperia P"
+    },
+    {
+        "name": "Nokia Lumia 710",
+        "score": 27,
+        "name_bare": "Nokia Lumia 710"
+    },
+    {
+        "name": "HTC Titan II",
+        "score": 23,
+        "name_bare": "HTC Titan II"
+    }
+]
